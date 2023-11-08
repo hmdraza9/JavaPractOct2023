@@ -6,12 +6,13 @@ public class PatternMainClass {
 		// URL practice -
 		// https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
 
+//		PatternMainClass.pyramidTopViewPatternPract(22); // 22 pract
 //		PatternMainClass.pyramidTopViewPattern(5); 				// 22
 //		PatternMainClass.boxPattern(9, 33); 					//21
 //		PatternMainClass.diamondBoxPattern(9, 19); 				//19
 //		PatternMainClass.descAlphabetsPattern(5); 				//18
-//		PatternMainClass.ascDecimalPattern(9); 					//13
-//		PatternMainClass.ascBinaryPattern(9); 					//11
+		PatternMainClass.ascDecimalPattern(9); // 13
+//		PatternMainClass.ascBinaryPattern(9); 					// 11
 //		PatternMainClass.pyramidLeftPattern(9); 				//10
 //		PatternMainClass.diamondPattern(10, 19); 				//9
 //		PatternMainClass.pyramidUpsidePattern(10, 19); 			//8
@@ -22,7 +23,25 @@ public class PatternMainClass {
 //		PatternMainClass.ascAscCountResetWidthPattern(5, 5); 	//3
 //		PatternMainClass.ascPattern(5, 5);   					//2
 //		PatternMainClass.blockPattern(5, 5); 					//1
-		PatternMainClass.blockTestPattern();
+//		PatternMainClass.blockTestPattern();
+
+	}
+
+	public static void pyramidTopViewPatternPract(int n) {
+
+		for (int i = 0; i < 2 * n - 1; i++) {
+			for (int j = 0; j < 2 * n - 1; j++) {
+				int top = i;
+				int left = j;
+				int bottom = (2 * n - 2) - i;
+				int right = (2 * n - 2) - j;
+
+				int min = n - (Math.min(Math.min(right, bottom), Math.min(left, top)));
+
+				System.out.print(min + ",");
+			}
+			System.out.println("");
+		}
 
 	}
 
@@ -117,7 +136,8 @@ public class PatternMainClass {
 
 		for (int i = 0; i < height; i++) {
 			for (int j = 0; j <= i; j++) {
-				System.out.print(count++);
+//				System.out.print(count++);
+				System.out.print(i + j);
 			}
 			System.out.println("");
 		}
@@ -126,21 +146,22 @@ public class PatternMainClass {
 	}
 
 	public static void ascBinaryPattern(int height) {
-		boolean isZeroLast = true;
+//		boolean isZeroLast = true;
 
 		for (int i = 0; i < height; i++) {
 			for (int j = 0; j <= i; j++) {
-				if (isZeroLast) {
+				if ((i + j + 1) % 2 == 1) {
 					System.out.print("1");
-					isZeroLast = false;
+//					isZeroLast = false;
 				} else {
 					System.out.print("0");
-					isZeroLast = true;
+//					isZeroLast = true;
 				}
 			}
 			System.out.println("");
 		}
-		System.out.println("\n\n");
+		System.out.println("");
+		System.out.print(".");
 
 	}
 
