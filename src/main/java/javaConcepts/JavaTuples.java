@@ -43,5 +43,49 @@ public class JavaTuples {
 				"Finally", "Again", "Yet", "But", "Now", "This", "is", "the", "Example", "Decade");
 		System.out.println("org.javatuples.Decade: " + decade);
 
+		String s1 = "hello";
+		String s2 = new String("hello");
+		String s3 = "hello";
+		if (s1 == s2) {
+			System.out.println("s1 and s2 equal");
+		} else {
+			System.out.println("s1 and s2 not equal");
+		}
+		if (s1 == s3) {
+			System.out.println("s1 and s3 equal");
+		} else {
+			System.out.println("s1 and s3 not equal");
+		}
+
+		String s = new String("5");
+		System.out.println(1 + 10 + s + 1 + 10);
+		
+		
+		String mySent = "I am a boy";
+		String word = "";
+		String reverse = "";
+		
+		for(String str : mySent.split("")) {
+			
+//			System.out.println("Str: >"+str+"< if space?: "+str.equals(" "));
+			
+			if(str.equals(" ")) {
+//				System.out.print(str+"");
+				reverse = word +" " + reverse;
+				word = "";
+				System.out.println("if   Reverse: "+reverse+"; Word: "+word);
+			}
+			else {
+//				System.out.print(str+"");
+				word = word + str;
+				System.out.println("else Reverse: "+reverse+"; Word: "+word);
+			}
+			
+			
+		}
+		reverse = word +" " + reverse;
+		System.out.println("\nreverse: "+reverse);
+		
+
 	}
 }
