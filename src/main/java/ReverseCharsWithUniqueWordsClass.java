@@ -1,16 +1,16 @@
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class ReverseCharsWithUniqueWords {
+public class ReverseCharsWithUniqueWordsClass {
 
 	int a;
 
 	public static void main(String[] args) {
-		ReverseCharsWithUniqueWords.testMe();
+		ReverseCharsWithUniqueWordsClass.ReverseCharsWithUniqueWordsMethod();
 
 	}
 
-	public static void testMe() {
+	public static void ReverseCharsWithUniqueWordsMethod() {
 
 		String str = "This the weekend is the";
 		// o/p: sihT eht si dnekeew
@@ -25,7 +25,7 @@ public class ReverseCharsWithUniqueWords {
 
 		for (String str1 : words) {
 
-			wordsSet.add(ReverseCharsWithUniqueWords.reverseWordChars(str1));
+			wordsSet.add(ReverseCharsWithUniqueWordsClass.reverseWordChars(str1));
 
 		}
 
