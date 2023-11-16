@@ -1,14 +1,12 @@
 package practicePatterns;
 
 public class PatternMainClass {
-	
 
 	public static void main(String[] args) {
 		// URL practice -
 		// https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
 
-		
-		PatternMainClass.print3loops(3);
+		PatternMainClass.print3loops(4);
 //		PatternMainClass.pyramidTopViewPatternPract(22);		//22 pract
 //		PatternMainClass.pyramidTopViewPattern(5); 				//22
 //		PatternMainClass.boxPattern(9, 33); 					//21
@@ -38,13 +36,17 @@ public class PatternMainClass {
 
 				for (int k = 1; k <= height; k++) {
 
-					System.out.print(i + "" + j + "" + k+" ");
+					for (int l = 1; l <= height; l++) {
+
+						System.out.print(i + "" + j + "" + k + "" + l+" ");
+					}
+					System.out.print("      ");
 
 				}
 				System.out.println(" ");
 
 			}
-			System.out.println("");
+			System.out.println("\n\n");
 
 		}
 		System.out.println("");
