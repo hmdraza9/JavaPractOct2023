@@ -6,7 +6,7 @@ public class PatternMainClass {
 		// URL practice -
 		// https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
 
-		PatternMainClass.print3loops(4);
+		PatternMainClass.print3loops(6);
 //		PatternMainClass.pyramidTopViewPatternPract(22);		//22 pract
 //		PatternMainClass.pyramidTopViewPattern(5); 				//22
 //		PatternMainClass.boxPattern(9, 33); 					//21
@@ -158,7 +158,7 @@ public class PatternMainClass {
 	}
 
 	public static void ascDecimalPattern(int height) {
-		int count = 1;
+//		int count = 1;
 
 		for (int i = 0; i < height; i++) {
 			for (int j = 0; j <= i; j++) {
