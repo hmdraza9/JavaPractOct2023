@@ -1,7 +1,5 @@
 package javaConcepts;
 
-import java.util.Collection;
-
 public class JavaReplaceString {
 
 	public static void main(String[] args) {
@@ -17,9 +15,10 @@ public class JavaReplaceString {
 			System.out.println(str + " name");
 			break;
 		case "email":
-			System.out.println(str+" email");
+			System.out.println(str + " email");
 			break;
-			default: System.out.println("default");
+		default:
+			System.out.println("default");
 
 		}
 

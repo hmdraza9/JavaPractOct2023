@@ -1,7 +1,5 @@
 package javaConcepts;
 
-import java.lang.reflect.Method;
-
 public class JavaReflection {
 
 	static void pattern22(int n) {
