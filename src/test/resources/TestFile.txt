@@ -1,0 +1,10 @@
+1. In this tutorial we show how to convert a Java object to JSON using two libraries, Jackson and Gson.
+We will use a Person class which is just a standard POJO. Once we create a person object, we can then convert it to JSON using different libraries.
+2. In this tutorial we show how to convert a Java object to JSON using two libraries, Jackson and Gson.
+We will use a Person class which is just a standard POJO. Once we create a person object, we can then convert it to JSON using different libraries.
+3. In this tutorial we show how to convert a Java object to JSON using two libraries, Jackson and Gson.
+We will use a Person class which is just a standard POJO. Once we create a person object, we can then convert it to JSON using different libraries.
+4. In this tutorial we show how to convert a Java object to JSON using two libraries, Jackson and Gson.
+We will use a Person class which is just a standard POJO. Once we create a person object, we can then convert it to JSON using different libraries.
+5. In this tutorial we show how to convert a Java object to JSON using two libraries, Jackson and Gson.
+We will use a Person class which is just a standard POJO. Once we create a person object, we can then convert it to JSON using different libraries.
