@@ -1,8 +1,30 @@
 package omniTopic;
 
-public class CheckedException {
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
-	public static void main(String[] args) {
+public class CheckedException {
+	public static CheckedException ch = new CheckedException();
+	String filePath = "src/test/resources/TestFile.txt";
+	
+	public String courseBody = "{\r\n" + "  \"dashboard\": {\r\n" + "    \"purchaseAmount\": 1162,\r\n"
+			+ "    \"website\": \"rahulshettyacademy.com\"\r\n" + "  },\r\n" + "  \"courses\": [\r\n" + "    {\r\n"
+			+ "      \"title\": \"Selenium Python\",\r\n" + "      \"price\": 50,\r\n" + "      \"copies\": 6\r\n"
+			+ "    },\r\n" + "    {\r\n" + "      \"title\": \"Cypress\",\r\n" + "      \"price\": 40,\r\n"
+			+ "      \"copies\": 4\r\n" + "    },\r\n" + "    {\r\n" + "      \"title\": \"RPA\",\r\n"
+			+ "      \"price\": 45,\r\n" + "      \"copies\": 10\r\n" + "    },\r\n" + "     {\r\n"
+			+ "      \"title\": \"Appium\",\r\n" + "      \"price\": 36,\r\n" + "      \"copies\": 7\r\n" + "    }\r\n"
+			+ "    \r\n" + "    \r\n" + "    \r\n" + "  ]\r\n" + "}\r\n" + "";
+
+	public static void main(String[] args) throws IOException {
+//		ch.randomMethod();
+		ch.fileAsByteToString();
+
+	}
+
+	public void randomMethod() {
 
 		int a = 12;
 		if (a < 10)
@@ -35,7 +57,7 @@ public class CheckedException {
 
 		System.out.println("\n\n\n\n");
 		int aa = 20, bb = 23;
-		CheckedException.swapNums(aa, bb);
+		ch.swapNums(aa, bb);
 
 		System.out.print("aa::bb -->" + aa + " " + bb);
 
@@ -44,10 +66,9 @@ public class CheckedException {
 		aa = aa - bb;
 
 		System.out.println("--> aa::bb -->" + aa + " " + bb);
-
 	}
 
-	public static void swapNums(int aa, int bb) {
+	public void swapNums(int aa, int bb) {
 
 		System.out.print("In method\naa::bb -->" + aa + " " + bb);
 
@@ -59,10 +80,15 @@ public class CheckedException {
 
 	}
 
-	public static void unitTestSwapNums() {
+	public void fileAsByteToString() throws IOException {
 
-		
-		
+		File file = new File(filePath);
+		System.out.println(file.exists());
+		byte[] fileByte = Files.readAllBytes(Paths.get(filePath));
+
+		System.out.println(fileByte);
+		System.out.println(courseBody);
+
 	}
 
 }
