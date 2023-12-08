@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import javaConcepts.*;
 
 public class CheckedException {
 	public static CheckedException ch = new CheckedException();
@@ -21,6 +22,11 @@ public class CheckedException {
 	public static void main(String[] args) throws IOException {
 //		ch.randomMethod();
 //		ch.fileAsByteToString();
+		
+
+		
+		AccessModProt obj11 = new AccessModProt();
+		obj11.displayInternalUnprot();
 		
 		String str = "hello a";
 		String str1 = "hello a";
