@@ -12,7 +12,7 @@ import java.nio.channels.ReadableByteChannel;
 import java.util.HashMap;
 import java.util.Map;
 
-public class FileDLoad {
+public class FileDownloadLoad {
 
 	static String logfile = "https://public.karat.io/content/q015/urls.txt";// -> the most common URL is
 	// http://www.example.com (with 1170
@@ -20,14 +20,18 @@ public class FileDLoad {
 //	String logfile1 = "https://public.karat.io/content/q015/single_url.txt";// -> the most common URL is
 	// http://www.example.com (with 1170
 	// occurrences)
-	public static String filePath = "/Users/hraza/Downloads/logFileNew.txt";
+	public static String filePath = System.getProperty("user.dir") + "/src/test/resources/TestFiles/logFileTest" + "-"
+			+ UtilMethods.getTime() + ".txt";
 
 	public static void main(String[] args) throws IOException {
 
-		FileDLoad obj = new FileDLoad();
-		File fileObj = new File(filePath);
+		System.out.println(System.getProperty("user.dir"));
 
-		if (!fileObj.exists()) {
+		FileDownloadLoad obj = new FileDownloadLoad();
+		File fileObj = new File(filePath);
+		fileObj.createNewFile();
+
+		if (!fileObj.exists() || !(fileObj.length() > 0)) {
 			System.out.println("File not exist, downloading...");
 //			obj.downloadUsingStream(logfile);
 			obj.downloadUsingNIO(logfile);
@@ -40,10 +44,11 @@ public class FileDLoad {
 					+ (fileObj.length() / 1024) + Level.kB);
 
 		// re-utilizing the variable irrespective of the name meaning
-		logfile = obj.mostOccURL();
+		String maxURL = obj.mostOccURL();
 
 		System.out.println("URL: " + logfile.split("_")[0]);
-		System.out.println("Occurrence: " + logfile.split("_")[1]);
+		System.out.println("Occurrence: " + maxURL.split("_")[1]);
+		System.out.println("fileObj: " + fileObj.exists());
 
 	}
 
@@ -90,7 +95,13 @@ public class FileDLoad {
 	public void downloadUsingStream(String logfile) throws IOException {
 		URL url = new URL(logfile);
 		BufferedInputStream bis = new BufferedInputStream(url.openStream());
-		FileOutputStream fos = new FileOutputStream(filePath);
+		FileOutputStream fos = null;
+		try {
+			fos = new FileOutputStream(filePath);
+		} catch (Exception e) {
+			e.printStackTrace();
+			System.out.println(e.getMessage());
+		}
 		byte[] buffer = new byte[1024];
 		int count = 0;
 

@@ -3,7 +3,6 @@ package javaConcepts;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedList;
-import java.util.Set;
 
 public class ArrListVSLinkdList {
 
@@ -20,7 +19,7 @@ public class ArrListVSLinkdList {
 
 	public void useLinkedList() {
 
-		LinkedList<String> myLList = new LinkedList<>();
+		LinkedList<String> myLList = new LinkedList<String>();
 
 		StringBuilder newLastText = new StringBuilder("New one");
 
@@ -74,10 +73,10 @@ public class ArrListVSLinkdList {
 		HashMap<String, Integer> charCount = new HashMap<String, Integer>();
 
 //		String[] charArr = str.toLowerCase().split(""); //for distinct case
-		
+
 //		String[] charArr = str.toLowerCase().split(""); //for lower case
-		
-		String[] charArr = str.toUpperCase().split(""); //for upper case
+
+		String[] charArr = str.toUpperCase().split(""); // for upper case
 //		System.out.println("sentence length: " + charArr.length);
 
 		for (String charIndex : charArr) {
