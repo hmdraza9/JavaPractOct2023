@@ -1,0 +1,527 @@
+[INFO ] 2023-12-29 12:41:49.708 [main] UIAutomationPract - false
+[INFO ] 2023-12-29 12:42:14.292 [main] UIAutomationPract - false
+[INFO ] 2023-12-29 12:42:32.878 [main] UIAutomationPract - Hell Yeah
+[INFO ] 2023-12-29 12:43:34.391 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 12:43:34.395 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 12:43:41.986 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 12:43:52.224 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 12:49:07.133 [main] TestingMethods - false
+[INFO ] 2023-12-29 12:50:39.886 [main] FileDownloadLoad - File not exist, downloading...
+[INFO ] 2023-12-29 12:51:35.264 [main] FileDownloadLoad - /Users/hraza/Documents/GitClones/GitTest/JavaPractOct2023
+[INFO ] 2023-12-29 12:51:35.267 [main] FileDownloadLoad - File not exist, downloading...
+[INFO ] 2023-12-29 12:51:35.268 [main] FileDownloadLoad - File not exist, downloading...
+[INFO ] 2023-12-29 12:51:35.764 [main] FileDownloadLoad - File downloaded, file name: logFileTest-29-Dec-2023_12-51-35-255.txt, file size: 289kB
+[INFO ] 2023-12-29 12:51:35.777 [main] FileDownloadLoad - URL: https://public.karat.io/content/q015/urls.txt
+[INFO ] 2023-12-29 12:51:35.778 [main] FileDownloadLoad - Occurrence: 1170
+[INFO ] 2023-12-29 12:51:35.778 [main] FileDownloadLoad - fileObj: true
+[INFO ] 2023-12-29 13:01:46.694 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:01:46.696 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:01:54.389 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:04:35.640 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:04:35.643 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:04:41.978 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:06:02.660 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:06:02.663 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:06:08.950 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:07:39.702 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:07:39.705 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:07:47.431 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:11:01.975 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:11:01.978 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:11:10.822 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:11:10.823 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:11:48.531 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:11:48.534 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:11:55.008 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:11:55.009 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:14:55.812 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:14:55.815 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:15:02.399 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:15:02.400 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:17:04.934 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:17:04.937 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:17:12.499 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:17:12.501 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:17:21.417 [main] UIAutomationPract - Size: 1
+[INFO ] 2023-12-29 13:19:00.951 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:19:00.954 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:19:08.021 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:19:08.022 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:19:17.851 [main] UIAutomationPract - Size: 1
+[INFO ] 2023-12-29 13:19:18.741 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:19:20.399 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:19:20.433 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 13:29:48.649 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:29:48.652 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:29:56.850 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:29:56.850 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:30:09.383 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:30:09.399 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:30:09.435 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 13:30:12.062 [main] UIAutomationPract - Days found: 42
+[INFO ] 2023-12-29 13:30:13.263 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.434 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.449 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.461 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.479 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.491 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.504 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.519 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.531 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.542 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.554 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.567 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.583 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.593 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.609 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.623 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.636 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.648 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.659 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.673 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.684 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.695 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.706 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.718 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.733 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.746 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.761 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.775 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.784 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.792 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.803 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.811 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.821 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.838 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.848 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.857 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.870 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.903 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.915 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.925 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.937 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.946 [main] UIAutomationPract - Checking: 
+[INFO ] 2023-12-29 13:30:13.953 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 13:32:54.384 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:32:54.387 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:33:00.934 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:33:00.937 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:33:13.878 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:33:13.892 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:33:13.914 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 13:33:13.916 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 13:33:45.106 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:33:45.109 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:33:51.810 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:33:51.810 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:34:01.406 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:34:01.417 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:34:01.449 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 13:34:01.450 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 13:35:06.019 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:35:06.022 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:35:12.588 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:35:12.588 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:35:25.123 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:35:25.170 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:35:25.195 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 13:35:25.196 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 13:35:57.156 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:35:57.158 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:36:03.812 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:36:03.813 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:36:14.967 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:36:16.704 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:36:16.736 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 13:36:17.455 [main] UIAutomationPract - Days found: 42
+[INFO ] 2023-12-29 13:36:21.347 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 13:37:41.619 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:37:41.623 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:37:50.238 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:37:50.239 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:38:01.599 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:38:01.646 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:38:01.669 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 13:38:04.078 [main] UIAutomationPract - Days found: 42
+[INFO ] 2023-12-29 13:38:06.397 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.731 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.743 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.756 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.772 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.781 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.793 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.808 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.819 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.834 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.847 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.861 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.873 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.887 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.901 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.915 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.932 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.943 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.954 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.968 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.981 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:06.996 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.007 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.024 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.041 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.053 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.068 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.082 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.090 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.099 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.109 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.117 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.140 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.154 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.162 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.171 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.182 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.198 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.210 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.220 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.233 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.243 [main] UIAutomationPract - Date element text: ><
+[INFO ] 2023-12-29 13:38:07.249 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 13:40:02.450 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 13:40:02.453 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 13:40:09.055 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 13:40:09.056 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 13:40:20.309 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:40:21.576 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 13:40:21.609 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 13:40:25.410 [main] UIAutomationPract - Days found: 42
+[INFO ] 2023-12-29 13:40:25.745 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:25.879 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:26.014 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:26.032 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:26.048 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:26.070 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:26.174 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:26.204 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:26.217 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:26.288 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:26.710 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:26.737 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:26.753 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.204 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.224 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.292 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.305 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.316 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.332 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.349 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.363 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.392 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.403 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.415 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.449 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.466 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.495 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.509 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.521 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.531 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.541 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.551 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.563 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.575 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.586 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.596 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.609 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.626 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.640 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.649 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.662 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.679 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 13:40:27.686 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 16:26:13.997 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 16:26:14.000 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 16:26:21.822 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 16:26:21.823 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 16:26:34.812 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:26:34.830 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:26:34.853 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 16:26:36.676 [main] UIAutomationPract - Days found: 42
+[INFO ] 2023-12-29 16:26:38.794 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:39.093 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:39.232 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:39.278 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:39.738 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.245 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.278 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.331 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.378 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.451 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.484 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.520 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.550 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.578 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.623 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.687 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.718 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.758 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.823 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.854 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.887 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.917 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:40.991 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.030 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.209 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.248 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.296 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.325 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.351 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.380 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.411 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.487 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.515 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.536 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.562 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.588 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.622 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.649 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.676 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.704 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.732 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.763 [main] UIAutomationPract - Date element text: >null<
+[INFO ] 2023-12-29 16:26:41.783 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 16:28:41.474 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 16:28:41.478 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 16:28:47.990 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 16:28:47.990 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 16:28:59.047 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:29:00.673 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:29:00.704 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 16:29:02.321 [main] UIAutomationPract - Days found: 42
+[INFO ] 2023-12-29 16:29:06.820 [main] UIAutomationPract - Element found, text: 
+[INFO ] 2023-12-29 16:29:07.112 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 16:30:09.514 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 16:30:09.516 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 16:30:15.860 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 16:30:15.860 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 16:30:29.979 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:30:29.993 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:30:30.026 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 16:30:30.670 [main] UIAutomationPract - Days found: 42
+[INFO ] 2023-12-29 16:30:35.681 [main] UIAutomationPract - Element found, text: 23
+[INFO ] 2023-12-29 16:30:35.987 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 16:30:53.279 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 16:30:53.283 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 16:30:59.741 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 16:30:59.742 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 16:31:14.125 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:31:14.139 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:31:14.171 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 16:31:16.495 [main] UIAutomationPract - Days found: 42
+[INFO ] 2023-12-29 16:31:18.945 [main] UIAutomationPract - Element found, text: 23
+[INFO ] 2023-12-29 16:31:19.215 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 16:32:38.749 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 16:32:38.753 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 16:32:45.171 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 16:32:45.171 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 16:32:56.828 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:32:57.836 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:32:57.864 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 16:33:00.375 [main] UIAutomationPract - Days found: 42
+[INFO ] 2023-12-29 16:33:03.040 [main] UIAutomationPract - Element found, text: 23
+[INFO ] 2023-12-29 16:33:03.221 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 16:33:03.345 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 16:37:36.532 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 16:37:36.535 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 16:37:43.147 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 16:37:43.148 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 16:37:57.252 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:37:57.264 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:37:57.285 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 16:38:00.384 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 16:38:01.462 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 16:38:01.762 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 16:38:21.843 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 16:39:40.605 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 16:39:40.608 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 16:39:47.258 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 16:39:47.258 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 16:39:58.222 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:40:00.439 [main] UIAutomationPract - Is clickable: true
+[INFO ] 2023-12-29 16:40:00.490 [main] UIAutomationPract - Is clickable: false
+[INFO ] 2023-12-29 16:40:03.550 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 16:40:06.735 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 16:40:11.042 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 16:40:11.311 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 16:41:58.125 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 16:41:58.127 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 16:42:04.727 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 16:42:04.728 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 16:42:10.462 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 18:01:35.733 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:01:35.736 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:01:44.177 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:01:44.178 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:01:57.681 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 18:02:02.910 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 18:02:07.282 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 18:02:07.864 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 18:02:19.627 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:02:19.630 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:02:26.062 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:02:26.063 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:02:39.330 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 18:02:41.398 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 18:02:46.447 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 18:02:47.368 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 18:10:27.266 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:10:27.270 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:10:33.974 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:10:33.975 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:10:45.814 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 18:10:51.915 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 18:10:56.149 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 18:10:56.862 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 18:11:29.535 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:11:29.539 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:11:35.842 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:11:35.842 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:11:50.946 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 18:11:55.616 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 18:11:59.808 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 18:12:00.447 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 18:14:52.905 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:14:52.909 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:14:59.552 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:14:59.553 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:15:16.663 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 18:15:19.354 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 18:15:23.531 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 18:15:24.149 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 18:16:35.353 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:16:35.359 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:17:01.748 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:17:01.751 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:17:08.698 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:17:08.699 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:17:27.150 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 18:17:29.232 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 18:17:33.401 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 18:17:34.156 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 18:19:05.189 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:19:05.194 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:19:11.768 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:19:11.769 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:19:26.473 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 18:20:34.441 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:20:34.444 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:20:40.853 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:20:40.854 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:20:56.108 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 18:21:59.618 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:21:59.621 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:22:06.282 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:22:06.282 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:22:24.491 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 18:22:26.723 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 18:22:30.890 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 18:22:31.631 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 18:24:53.791 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:24:53.794 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:25:00.266 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:25:00.267 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:25:18.724 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 18:25:20.808 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 18:25:25.008 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 18:25:25.667 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 18:26:49.921 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:26:49.925 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:26:56.428 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:26:56.429 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:27:15.453 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 18:27:17.536 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 18:27:21.790 [main] UIAutomationPract - Element clicked: true
+[INFO ] 2023-12-29 18:27:27.901 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 18:29:10.645 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:29:10.649 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:29:17.177 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:29:17.177 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:29:37.133 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 18:29:39.253 [main] UIAutomationPract - Element found, text: 29
+[INFO ] 2023-12-29 18:29:45.677 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 18:31:09.515 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:31:09.519 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:31:16.183 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:31:16.184 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:31:34.299 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 18:31:36.618 [main] UIAutomationPract - Element found, text: 31
+[INFO ] 2023-12-29 18:31:39.641 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 18:40:12.863 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:40:12.866 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:40:19.499 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:40:19.499 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:40:37.147 [main] UIAutomationPract - Days found: 42
+[INFO ] 2023-12-29 18:40:38.722 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 18:42:06.610 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 18:42:06.613 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 18:42:13.205 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 18:42:13.206 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 18:42:27.929 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 21:56:23.711 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 21:56:23.715 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 21:56:31.348 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 21:56:31.349 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 21:56:45.973 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 22:17:31.036 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 22:17:31.039 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 22:17:38.401 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 22:17:38.401 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 22:17:51.767 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 22:18:59.100 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 22:18:59.103 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 22:19:05.706 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 22:19:05.707 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 22:19:20.495 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 22:20:35.101 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 22:20:35.104 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 22:20:41.721 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 22:20:41.722 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 22:21:15.969 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 22:22:23.724 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 22:22:23.727 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 22:22:30.207 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 22:22:30.208 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 22:23:08.996 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-29 22:23:48.681 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 22:23:48.684 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 22:23:55.226 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 22:23:55.227 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 22:24:12.805 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 22:24:13.179 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 22:25:03.367 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 22:25:03.370 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 22:25:09.856 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 22:25:09.857 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 22:25:27.063 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 22:25:27.436 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 22:25:35.025 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 22:25:35.027 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 22:25:40.816 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 22:25:40.816 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 22:25:58.162 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 22:25:58.549 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 22:26:14.506 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 22:26:14.509 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 22:26:20.965 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 22:26:20.965 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 22:26:38.570 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 22:26:39.035 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 22:52:22.942 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 22:52:22.945 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 22:52:32.008 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 22:52:32.009 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 22:52:49.458 [main] UIAutomationPract - Days found: 9
+[INFO ] 2023-12-29 22:52:49.815 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-29 22:55:07.299 [main] UIAutomationPract - main
+[INFO ] 2023-12-29 22:55:07.302 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-29 22:55:13.821 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-29 22:55:13.821 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
+[INFO ] 2023-12-29 22:55:27.514 [main] UIAutomationPract - Exception occurred
