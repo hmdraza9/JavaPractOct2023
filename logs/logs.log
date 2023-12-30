@@ -1570,3 +1570,75 @@
 [INFO ] 2023-12-31 00:32:38.919 [main] UIAutomationPractice - Temp set to 1
 [INFO ] 2023-12-31 00:32:38.933 [main] UIAutomationPractice - Temp set to 2
 [INFO ] 2023-12-31 00:32:40.753 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-31 00:59:05.100 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 00:59:05.103 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 00:59:16.841 [main] UIAutomationPractice - implicitlyWait set to 6
+[INFO ] 2023-12-31 00:59:16.841 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 00:59:16.842 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 00:59:33.488 [main] UIAutomationPractice - monthYearSelect set to 08-2024
+[INFO ] 2023-12-31 00:59:33.488 [main] UIAutomationPractice - daySelect set to 2
+[INFO ] 2023-12-31 00:59:33.489 [main] UIAutomationPractice - monthSelect set to 8
+[INFO ] 2023-12-31 00:59:33.489 [main] UIAutomationPractice - yearSelect set to 2024
+[INFO ] 2023-12-31 00:59:33.489 [main] UIAutomationPractice - monthYearLabel set to August 2024
+[INFO ] 2023-12-31 00:59:39.570 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 00:59:45.735 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 00:59:51.839 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 00:59:58.028 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:00:04.219 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:00:10.407 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:00:16.549 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:00:22.770 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:00:28.916 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:00:35.092 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:00:41.256 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:00:47.352 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-31 01:05:45.692 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 01:05:45.695 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 01:05:49.404 [main] UIAutomationPractice - implicitlyWait set to 6
+[INFO ] 2023-12-31 01:05:49.405 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 01:05:49.405 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 01:06:05.790 [main] UIAutomationPractice - monthYearSelect set to 08-2024
+[INFO ] 2023-12-31 01:06:05.790 [main] UIAutomationPractice - daySelect set to 2
+[INFO ] 2023-12-31 01:06:05.790 [main] UIAutomationPractice - monthSelect set to 8
+[INFO ] 2023-12-31 01:06:05.790 [main] UIAutomationPractice - yearSelect set to 2024
+[INFO ] 2023-12-31 01:06:05.790 [main] UIAutomationPractice - monthYearLabel set to August 2024
+[INFO ] 2023-12-31 01:06:11.815 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:06:17.983 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:06:24.159 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:06:30.275 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:06:36.461 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:06:42.666 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:06:42.764 [main] UIAutomationPractice - isCalFound set to true
+[INFO ] 2023-12-31 01:06:45.379 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-31 01:11:29.831 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 01:11:29.833 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 01:11:38.358 [main] UIAutomationPractice - implicitlyWait set to 6
+[INFO ] 2023-12-31 01:11:38.358 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 01:11:38.358 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 01:11:55.823 [main] UIAutomationPractice - monthYearSelect set to 08-2024
+[INFO ] 2023-12-31 01:11:55.823 [main] UIAutomationPractice - daySelect set to 2
+[INFO ] 2023-12-31 01:11:55.824 [main] UIAutomationPractice - monthSelect set to 8
+[INFO ] 2023-12-31 01:11:55.824 [main] UIAutomationPractice - yearSelect set to 2024
+[INFO ] 2023-12-31 01:11:55.824 [main] UIAutomationPractice - monthYearLabel set to August 2024
+[INFO ] 2023-12-31 01:12:01.872 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:12:07.988 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:12:11.044 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:12:11.469 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-31 01:12:18.361 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 01:12:18.365 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 01:12:22.289 [main] UIAutomationPractice - implicitlyWait set to 6
+[INFO ] 2023-12-31 01:12:22.289 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 01:12:22.290 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 01:12:35.966 [main] UIAutomationPractice - monthYearSelect set to 08-2024
+[INFO ] 2023-12-31 01:12:35.966 [main] UIAutomationPractice - daySelect set to 2
+[INFO ] 2023-12-31 01:12:35.966 [main] UIAutomationPractice - monthSelect set to 8
+[INFO ] 2023-12-31 01:12:35.966 [main] UIAutomationPractice - yearSelect set to 2024
+[INFO ] 2023-12-31 01:12:35.966 [main] UIAutomationPractice - monthYearLabel set to August 2024
+[INFO ] 2023-12-31 01:12:42.055 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:12:48.276 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:12:54.431 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:13:00.658 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:13:06.861 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:13:13.084 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:13:13.205 [main] UIAutomationPractice - isCalFound set to true
+[INFO ] 2023-12-31 01:13:15.869 [main] UIAutomationPractice - uiSeleniumQuit
