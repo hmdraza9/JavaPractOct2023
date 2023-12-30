@@ -1,161 +1,178 @@
 package my.test.pack.ui.tests;
 
-import org.apache.commons.io.FileUtils;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.*;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.interactions.Actions;
-
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Calendar;
-import java.util.HashMap;
 import java.util.List;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 
 public class UIAutomationPractice {
 
-    private static final Logger log = LogManager.getLogger(UIAutomationPractice.class);
-    public static WebDriver driver;
-    static JavascriptExecutor js;
-    static String monthYearLabel;
+	public static void main(String[] args) throws IOException {
 
-    static String dateSelect = "31-12-2025";
+		CalendarDateSelect.selectDateFromCalendar();
+	}
 
-    static String dateToday = getTime().substring(0, 9);
+}
 
-    public static final String url = "https://www.makemytrip.com/";
+class CalendarDateSelect {
 
-    public static void main(String[] args) {
+	private static final Logger log = LogManager.getLogger(UIAutomationPractice.class);
+	private static WebDriver driver;
+	private static JavascriptExecutor js;
+	private static String monthYearLabel;
 
-        js = (JavascriptExecutor) driver;
+	private static String dateSelect = "02-08-2024";
+	
+	static int implicitWaitSeconds = 6;
 
-        log.info(Thread.currentThread().getStackTrace()[1].getMethodName());
+	private static int daySelect; // 21-01-2024 -> 21
 
-        try {
-                        uiSeleniumStart();
-                        uiSeleniumScript();
-                        uiSeleniumQuit();
-//            dateDecode(driver);
-        } catch (Exception ex) {
-            ex.printStackTrace();
-            log.info("Exception occurred");
-            driver.quit();
-        }
+	private static int monthSelect;
 
-    }
+	private static int yearSelect;
 
-    public static void uiSeleniumStart() {
-        log.info(Thread.currentThread().getStackTrace()[1].getMethodName());
+	private static String currentMonthDayXpath = "//div[text()='$monthYearLabel']/ancestor::div[@class='DayPicker-Month']//*[contains(@class,'DayPicker-Day') and not(contains(@class,'disabled')) and not(contains(@class,'outside'))]";
 
-        driver = new ChromeDriver();
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+	private static String dateInputXpath = "//div[contains(@class,'flt_fsw_inputBox dates')]/label[@for='departure']";
 
-    }
+	private static String calendarLabelXpath = "//div[@class='DayPicker-Caption']/div[text()='$monthYearLabel']";
 
-    public static void uiSeleniumScript() throws InterruptedException, IOException {
-        js = (JavascriptExecutor) driver;
-        log.info(Thread.currentThread().getStackTrace()[1].getMethodName());
-        log.info("Loading url: " + url);
-        driver.get(url);
-        Thread.sleep(5000);
-        WebElement dateInput = driver.findElement(By.xpath("//div[contains(@class,'flt_fsw_inputBox dates')]/label[@for='departure']"));
-        dateInput.click();
-        js.executeScript("arguments[0].scrollIntoView();", dateInput);
-        Actions action = new Actions(driver);
-        action.click(dateInput).build().perform();
+	private static String nextMonthXpath = "//span[@role='button' and @aria-label='Next Month']";
 
-        dateDecode(driver);
+	private static final String url = "https://www.makemytrip.com/";
 
-//        String nextMonthXpath = "//span[@aria-label='Next Month']";
+	public static void selectDateFromCalendar() throws IOException {
 
-//        WebElement nextMonth = driver.findElement(By.xpath(nextMonthXpath));
-//        action.click(nextMonth);
-        ts(driver);
-        List < WebElement > mDaysWeb = driver.findElements(By.xpath("//span[contains(@class,'flatpickr-day') and not (contains(@class,'disabled'))]"));
-        log.info("Days found: " + mDaysWeb.size());
+		js = (JavascriptExecutor) driver;
 
-        for (WebElement dayEl: mDaysWeb) {
-            if (dayEl.getAttribute("textContent").equalsIgnoreCase("22")) {
-                Thread.sleep(2000);
-                log.info("Element found, text: " + dayEl.getAttribute("textContent"));
-                js.executeScript("arguments[0].style.border='3px solid red'", dayEl);
-                Actions action2 = new Actions(driver);
-                action2.moveToElement(dayEl).click().build().perform();
-                Thread.sleep(2000);
-                ts(driver);
-                break;
-            }
-        }
-    }
-    public static void dateDecode(WebDriver driver) {
+		log.info(Thread.currentThread().getStackTrace()[1].getMethodName());
 
-        System.out.println("dateToday: " + dateToday);
+		try {
+			uiSeleniumStart();
+			uiSeleniumScript();
+			uiSeleniumQuit();
+		} catch (Exception ex) {
+			ex.printStackTrace();
+			log.info("Exception occurred");
+			ts(driver);
+			driver.quit();
+		}
 
-        List < String > monthList = new ArrayList < > ();
-        monthList.add(0, "Jan_January");
-        monthList.add(1, "Feb_February");
-        monthList.add(2, "Mar_March");
-        monthList.add(3, "Apr_April");
-        monthList.add(4, "May_May");
-        monthList.add(5, "Jun_June");
-        monthList.add(6, "Jul_July");
-        monthList.add(7, "Aug_August");
-        monthList.add(8, "Sep_September");
-        monthList.add(9, "Oct_October");
-        monthList.add(10, "Nov_November");
-        monthList.add(11, "Dec_December");
+	}
 
-        int daySelect = Integer.parseInt(dateSelect.split("-")[0]);
-        int monthSelect = Integer.parseInt(dateSelect.split("-")[1]);
-        int yearSelect = Integer.parseInt(dateSelect.split("-")[2]);
+	private static void uiSeleniumStart() {
+		log.info(Thread.currentThread().getStackTrace()[1].getMethodName());
 
-        int dayToday = Integer.parseInt(dateToday.split("-")[0]);
-        int monthToday = Integer.parseInt(dateToday.split("-")[1]);
-        int yearToday = Integer.parseInt(dateToday.split("-")[2]);
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(implicitWaitSeconds));
+		log.info("implicitlyWait set to "+implicitWaitSeconds);
 
-        System.out.println("daySelect: " + daySelect);
-        System.out.println("monthSelect: " + monthSelect);
-        System.out.println("yearSelect: " + yearSelect);
-        System.out.println("dateToday: " + dateToday);
+	}
 
-        System.out.println("Is match: " + (monthSelect == monthToday));
+	private static void uiSeleniumScript() throws InterruptedException, IOException {
+		js = (JavascriptExecutor) driver;
+		log.info(Thread.currentThread().getStackTrace()[1].getMethodName());
+		log.info("Loading url: " + url);
+		driver.get(url);
+		Thread.sleep(5000);
+		WebElement dateInput = driver.findElement(By.xpath(dateInputXpath));
+		dateInput.click();
+		js.executeScript("arguments[0].scrollIntoView();", dateInput);
+		Actions action = new Actions(driver);
+		action.click(dateInput).build().perform();
 
-        monthYearLabel = monthList.get(monthSelect - 1).split("_")[1] + " " + yearSelect;
+		String monthYearSelect = dateSelect.substring(3, 10); // 31-02-2023 --> 02-2023
+		log.info("monthYearSelect set to "+monthYearSelect);
 
-        System.out.printf("monthYearLabel: " + monthYearLabel);
+		goToSelectMonth(driver, monthYearSelect);
 
-        String monthYearLabelWeb = driver.findElement(By.xpath("//span[@role='button' and @aria-label='Next Month']")).getText();
+		ts(driver);
+		List<WebElement> mDaysWeb = driver
+				.findElements(By.xpath(currentMonthDayXpath.replace("$monthYearLabel", monthYearLabel)));
 
-        do{
-            driver.findElement(By.xpath("//span[@role='button' and @aria-label='Next Month']")).click();
-        }
-        while(!monthYearLabelWeb.equalsIgnoreCase(monthYearLabel));
+		for (WebElement dayEl : mDaysWeb) {
+			String temp = dayEl.getText().split("\n")[0];
+			if (temp.equalsIgnoreCase(String.valueOf(daySelect))) {
+				js.executeScript("arguments[0].style.border='3px solid red'", dayEl);
+				Thread.sleep(1333);
+				ts(driver);
+				dayEl.click();
+				ts(driver);
+				break;
+			}
+		}
+	}
 
-    }
+	private static void goToSelectMonth(WebDriver driver, String monthYearSelect) throws InterruptedException {
 
-    public static void ts(WebDriver driver) throws IOException {
+		List<String> monthList = new ArrayList<>();
+		monthList.add(0, "Jan_January");
+		monthList.add(1, "Feb_February");
+		monthList.add(2, "Mar_March");
+		monthList.add(3, "Apr_April");
+		monthList.add(4, "May_May");
+		monthList.add(5, "Jun_June");
+		monthList.add(6, "Jul_July");
+		monthList.add(7, "Aug_August");
+		monthList.add(8, "Sep_September");
+		monthList.add(9, "Oct_October");
+		monthList.add(10, "Nov_November");
+		monthList.add(11, "Dec_December");
+		daySelect = Integer.parseInt(dateSelect.substring(0, 2));
+		log.info("daySelect set to "+daySelect);
+		monthSelect = Integer.parseInt(monthYearSelect.split("-")[0]);
+		log.info("monthSelect set to "+monthSelect);
+		yearSelect = Integer.parseInt(monthYearSelect.split("-")[1]);
+		log.info("yearSelect set to "+yearSelect);
 
-        File scr = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-        FileUtils.copyFile(scr, new File("screenshot//scr_" + getTime() + ".png"));
+		monthYearLabel = monthList.get(monthSelect - 1).split("_")[1] + " " + yearSelect;
+		log.info("monthYearLabel set to "+monthYearLabel);
 
-    }
+		boolean isCalFound = false;
 
-    public static void uiSeleniumQuit() {
-        log.info(Thread.currentThread().getStackTrace()[1].getMethodName());
+		while (!isCalFound) {
+			isCalFound = driver.findElements(By.xpath(calendarLabelXpath.replace("$monthYearLabel", monthYearLabel))).size() > 0;
+	log.info("isCalFound set to " + isCalFound);
+			driver.findElement(By.xpath(nextMonthXpath)).click();
+		}
 
-        driver.quit();
+	}
 
-    }
-    public static String getTime() {
+	public static void ts(WebDriver driver) throws IOException {
 
-        Calendar cal = Calendar.getInstance();
-        SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy_HH-mm-ss-SSS");
-        return sdf.format(cal.getTime());
+		File scr = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+		FileUtils.copyFile(scr, new File("screenshot//scr_" + getTime() + ".png"));
 
-    }
+	}
+
+	private static void uiSeleniumQuit() throws IOException {
+		log.info(Thread.currentThread().getStackTrace()[1].getMethodName());
+		ts(driver);
+		driver.quit();
+
+	}
+
+	public static String getTime() {
+
+		Calendar cal = Calendar.getInstance();
+		SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy_HH-mm-ss-SSS");
+		return sdf.format(cal.getTime());
+
+	}
 }

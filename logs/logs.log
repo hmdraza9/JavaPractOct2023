@@ -574,3 +574,999 @@
 [INFO ] 2023-12-30 12:48:53.768 [main] UIAutomationPractice - uiSeleniumScript
 [INFO ] 2023-12-30 12:48:53.768 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
 [INFO ] 2023-12-30 12:50:08.878 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 20:21:45.728 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 20:21:45.790 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 20:22:08.046 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 20:22:08.047 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 20:22:57.294 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 20:24:40.633 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 20:24:40.633 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 20:24:44.700 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 20:24:44.701 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 20:25:20.960 [main] UIAutomationPractice - Days found: 0
+[INFO ] 2023-12-30 20:25:20.962 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 20:32:49.062 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 20:32:49.095 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 20:33:03.246 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 20:33:03.246 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 20:33:46.074 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 20:45:21.339 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 20:45:21.341 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 20:45:24.219 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 20:45:24.219 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 20:45:59.099 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 20:46:54.307 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 20:46:54.309 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 20:46:58.705 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 20:46:58.706 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 20:47:29.042 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 20:49:26.865 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 20:49:26.868 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 20:49:30.408 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 20:49:30.408 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 20:49:40.053 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 20:49:40.054 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 20:49:40.054 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 20:49:40.054 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 20:49:40.054 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 20:49:40.054 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 20:49:40.054 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 20:50:00.109 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 20:50:44.582 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 20:50:44.584 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 20:50:48.227 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 20:50:48.228 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 20:50:57.237 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 20:50:57.237 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 20:50:57.238 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 20:50:57.238 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 20:50:57.238 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 20:50:57.238 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 20:50:57.238 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 20:51:17.302 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 21:09:39.135 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 21:09:39.139 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 21:09:59.685 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 21:09:59.686 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 21:10:12.431 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:10:12.431 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 21:10:12.431 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 21:10:12.432 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 21:10:12.432 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:10:12.432 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 21:10:12.432 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 21:10:40.477 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 21:12:13.012 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 21:12:13.015 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 21:12:16.935 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 21:12:16.935 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 21:12:28.621 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:12:28.621 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 21:12:28.621 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 21:12:28.621 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 21:12:28.622 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:12:28.622 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 21:12:28.622 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 21:12:57.026 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 21:21:21.315 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 21:21:21.319 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 21:21:21.824 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 21:21:21.827 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 21:21:23.857 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 21:21:23.859 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 21:21:24.977 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 21:21:24.977 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 21:21:40.640 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:21:40.640 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 21:21:40.640 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 21:21:40.640 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 21:21:40.641 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:21:40.641 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 21:21:40.641 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 21:21:41.359 [main] UIAutomationPractice - Label: January2024
+[INFO ] 2023-12-30 21:21:41.379 [main] UIAutomationPractice - Label: February2024
+[INFO ] 2023-12-30 21:21:42.042 [main] UIAutomationPractice - Label: February2024
+[INFO ] 2023-12-30 21:21:42.061 [main] UIAutomationPractice - Label: March2024
+[INFO ] 2023-12-30 21:21:42.809 [main] UIAutomationPractice - Label: March2024
+[INFO ] 2023-12-30 21:21:42.840 [main] UIAutomationPractice - Label: April2024
+[INFO ] 2023-12-30 21:21:43.526 [main] UIAutomationPractice - Label: April2024
+[INFO ] 2023-12-30 21:21:45.217 [main] UIAutomationPractice - Label: May2024
+[INFO ] 2023-12-30 21:21:45.903 [main] UIAutomationPractice - Label: May2024
+[INFO ] 2023-12-30 21:21:45.928 [main] UIAutomationPractice - Label: June2024
+[INFO ] 2023-12-30 21:21:46.397 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:21:46.397 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 21:21:46.398 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 21:21:46.398 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 21:21:46.398 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:21:46.399 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 21:21:46.399 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 21:21:46.595 [main] UIAutomationPractice - Label: June2024
+[INFO ] 2023-12-30 21:21:46.610 [main] UIAutomationPractice - Label: July2024
+[INFO ] 2023-12-30 21:21:47.147 [main] UIAutomationPractice - Label: January 2024
+[INFO ] 2023-12-30 21:21:47.167 [main] UIAutomationPractice - Label: February 2024
+[INFO ] 2023-12-30 21:21:47.269 [main] UIAutomationPractice - Label: July2024
+[INFO ] 2023-12-30 21:21:47.299 [main] UIAutomationPractice - Label: August2024
+[INFO ] 2023-12-30 21:21:47.894 [main] UIAutomationPractice - Label: February 2024
+[INFO ] 2023-12-30 21:21:47.907 [main] UIAutomationPractice - Label: March 2024
+[INFO ] 2023-12-30 21:21:47.950 [main] UIAutomationPractice - Label: August2024
+[INFO ] 2023-12-30 21:21:47.973 [main] UIAutomationPractice - Label: September2024
+[INFO ] 2023-12-30 21:21:48.564 [main] UIAutomationPractice - Label: March 2024
+[INFO ] 2023-12-30 21:21:48.578 [main] UIAutomationPractice - Label: April 2024
+[INFO ] 2023-12-30 21:21:48.607 [main] UIAutomationPractice - Label: September2024
+[INFO ] 2023-12-30 21:21:48.620 [main] UIAutomationPractice - Label: October2024
+[INFO ] 2023-12-30 21:21:49.253 [main] UIAutomationPractice - Label: April 2024
+[INFO ] 2023-12-30 21:21:49.269 [main] UIAutomationPractice - Label: May 2024
+[INFO ] 2023-12-30 21:21:49.279 [main] UIAutomationPractice - Label: October2024
+[INFO ] 2023-12-30 21:21:49.300 [main] UIAutomationPractice - Label: November2024
+[INFO ] 2023-12-30 21:21:49.943 [main] UIAutomationPractice - Label: May 2024
+[INFO ] 2023-12-30 21:21:49.962 [main] UIAutomationPractice - Label: June 2024
+[INFO ] 2023-12-30 21:21:49.973 [main] UIAutomationPractice - Label: November2024
+[INFO ] 2023-12-30 21:21:49.996 [main] UIAutomationPractice - Label: December2024
+[INFO ] 2023-12-30 21:21:50.673 [main] UIAutomationPractice - Label: June 2024
+[INFO ] 2023-12-30 21:21:50.692 [main] UIAutomationPractice - Label: July 2024
+[INFO ] 2023-12-30 21:21:51.415 [main] UIAutomationPractice - Label: July 2024
+[INFO ] 2023-12-30 21:21:51.434 [main] UIAutomationPractice - Label: August 2024
+[INFO ] 2023-12-30 21:21:52.114 [main] UIAutomationPractice - Label: August 2024
+[INFO ] 2023-12-30 21:21:52.133 [main] UIAutomationPractice - Label: September 2024
+[INFO ] 2023-12-30 21:21:52.880 [main] UIAutomationPractice - Label: September 2024
+[INFO ] 2023-12-30 21:21:52.900 [main] UIAutomationPractice - Label: October 2024
+[INFO ] 2023-12-30 21:21:53.614 [main] UIAutomationPractice - Label: October 2024
+[INFO ] 2023-12-30 21:21:53.631 [main] UIAutomationPractice - Label: November 2024
+[INFO ] 2023-12-30 21:21:54.359 [main] UIAutomationPractice - Label: November 2024
+[INFO ] 2023-12-30 21:21:54.378 [main] UIAutomationPractice - Label: December 2024
+[INFO ] 2023-12-30 21:22:10.677 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 21:22:15.051 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 21:35:53.860 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 21:35:53.862 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 21:35:57.975 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 21:35:57.975 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 21:36:08.848 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:36:08.848 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 21:36:08.849 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 21:36:08.849 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 21:36:08.849 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:36:08.850 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 21:36:08.850 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 21:36:56.689 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 21:39:28.707 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 21:39:28.710 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 21:39:31.072 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 21:39:31.073 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 21:39:40.823 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:39:40.824 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 21:39:40.824 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 21:39:40.824 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 21:39:40.825 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:39:40.825 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 21:39:40.825 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 21:40:28.788 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 21:47:23.989 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 21:47:23.994 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 21:47:28.198 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 21:47:28.198 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 21:47:44.652 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:47:44.653 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 21:47:44.653 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 21:47:44.653 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 21:47:44.654 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:47:44.654 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 21:47:44.654 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 21:48:24.716 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 21:48:24.716 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 21:49:32.948 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 21:49:32.952 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 21:49:35.164 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 21:49:35.164 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 21:49:44.769 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:49:44.769 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 21:49:44.769 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 21:49:44.769 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 21:49:44.769 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:49:44.770 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 21:49:44.770 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 21:50:24.864 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 21:50:52.769 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 21:54:25.095 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 21:54:25.099 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 21:54:27.620 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 21:54:27.621 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 21:54:36.730 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:54:36.730 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 21:54:36.731 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 21:54:36.731 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 21:54:36.731 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:54:36.731 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 21:54:36.731 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 21:55:16.837 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 21:55:57.736 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 21:56:38.665 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 21:57:48.154 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 21:57:48.157 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 21:57:50.516 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 21:57:50.517 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 21:57:59.729 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:57:59.729 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 21:57:59.729 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 21:57:59.729 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 21:57:59.730 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 21:57:59.730 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 21:57:59.730 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 21:58:39.848 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 21:59:20.238 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:00:00.555 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:00:30.116 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:00:30.206 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 22:01:39.797 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 22:01:39.800 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 22:01:42.314 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 22:01:42.315 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 22:01:54.054 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:01:54.055 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 22:01:54.055 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 22:01:54.055 [main] UIAutomationPractice - yearSelect: 2025
+[INFO ] 2023-12-30 22:01:54.056 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:01:54.056 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 22:01:54.056 [main] UIAutomationPractice - monthYearLabel: December 2025
+[INFO ] 2023-12-30 22:02:00.151 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:02:06.531 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:02:12.815 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:02:19.197 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:02:25.471 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:02:31.881 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:02:38.144 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:02:44.427 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:02:50.758 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:02:56.975 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:03:03.163 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:03:09.449 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:03:12.671 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 22:05:00.638 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 22:05:00.642 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 22:05:03.552 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 22:05:03.553 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 22:05:22.890 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:05:22.890 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 22:05:22.890 [main] UIAutomationPractice - monthSelect: 12
+[INFO ] 2023-12-30 22:05:22.891 [main] UIAutomationPractice - yearSelect: 2024
+[INFO ] 2023-12-30 22:05:22.891 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:05:22.891 [main] UIAutomationPractice - Is match: true
+[INFO ] 2023-12-30 22:05:22.892 [main] UIAutomationPractice - monthYearLabel: December 2024
+[INFO ] 2023-12-30 22:05:29.047 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:05:35.349 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:05:41.654 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:05:47.892 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:05:54.163 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:06:00.430 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:06:06.715 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:06:12.950 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:06:19.158 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:06:25.509 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:06:31.785 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:06:32.039 [main] UIAutomationPractice - Required month found? : true
+[INFO ] 2023-12-30 22:06:32.068 [main] UIAutomationPractice - Month label text: December 2024
+[INFO ] 2023-12-30 22:06:32.115 [main] UIAutomationPractice - Calender found: December 2024
+[INFO ] 2023-12-30 22:06:35.415 [main] UIAutomationPractice - Days found: 0
+[INFO ] 2023-12-30 22:06:35.416 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 22:19:13.482 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 22:19:13.485 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 22:19:16.189 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 22:19:16.189 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 22:19:27.357 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:19:27.358 [main] UIAutomationPractice - daySelect: 13
+[INFO ] 2023-12-30 22:19:27.358 [main] UIAutomationPractice - monthSelect: 5
+[INFO ] 2023-12-30 22:19:27.358 [main] UIAutomationPractice - yearSelect: 2024
+[INFO ] 2023-12-30 22:19:27.358 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:19:27.359 [main] UIAutomationPractice - Is match: false
+[INFO ] 2023-12-30 22:19:27.359 [main] UIAutomationPractice - monthYearLabel: May 2024
+[INFO ] 2023-12-30 22:19:33.409 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:19:39.684 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:19:45.867 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:19:52.085 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:19:52.246 [main] UIAutomationPractice - Required month found? : true
+[INFO ] 2023-12-30 22:19:52.275 [main] UIAutomationPractice - Month label text: May 2024
+[INFO ] 2023-12-30 22:19:52.322 [main] UIAutomationPractice - Calender found: May 2024
+[INFO ] 2023-12-30 22:19:55.726 [main] UIAutomationPractice - Days found: 0
+[INFO ] 2023-12-30 22:19:55.727 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 22:22:09.887 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 22:22:09.890 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 22:22:13.178 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 22:22:13.179 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 22:22:24.808 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:22:24.808 [main] UIAutomationPractice - daySelect: 13
+[INFO ] 2023-12-30 22:22:24.808 [main] UIAutomationPractice - monthSelect: 5
+[INFO ] 2023-12-30 22:22:24.809 [main] UIAutomationPractice - yearSelect: 2024
+[INFO ] 2023-12-30 22:22:24.809 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:22:24.809 [main] UIAutomationPractice - Is match: false
+[INFO ] 2023-12-30 22:22:24.810 [main] UIAutomationPractice - monthYearLabel: May 2024
+[INFO ] 2023-12-30 22:22:30.897 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:22:37.170 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:22:43.340 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:22:49.584 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:22:49.780 [main] UIAutomationPractice - Required month found? : true
+[INFO ] 2023-12-30 22:22:49.814 [main] UIAutomationPractice - Month label text: May 2024
+[INFO ] 2023-12-30 22:22:49.864 [main] UIAutomationPractice - Calender found: May 2024
+[INFO ] 2023-12-30 22:22:50.096 [main] UIAutomationPractice - Days found: 31
+[INFO ] 2023-12-30 22:22:50.884 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 22:29:33.989 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 22:29:33.992 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 22:29:36.540 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 22:29:36.541 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 22:29:47.193 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:29:47.193 [main] UIAutomationPractice - daySelect: 13
+[INFO ] 2023-12-30 22:29:47.194 [main] UIAutomationPractice - monthSelect: 5
+[INFO ] 2023-12-30 22:29:47.194 [main] UIAutomationPractice - yearSelect: 2024
+[INFO ] 2023-12-30 22:29:47.194 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:29:47.194 [main] UIAutomationPractice - Is match: false
+[INFO ] 2023-12-30 22:29:47.194 [main] UIAutomationPractice - monthYearLabel: May 2024
+[INFO ] 2023-12-30 22:29:53.297 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:29:59.624 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:30:05.838 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:30:12.040 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:30:12.188 [main] UIAutomationPractice - Required month found? : true
+[INFO ] 2023-12-30 22:30:12.222 [main] UIAutomationPractice - Month label text: May 2024
+[INFO ] 2023-12-30 22:30:12.272 [main] UIAutomationPractice - Calender found  : May 2024
+[INFO ] 2023-12-30 22:30:12.552 [main] UIAutomationPractice - Days found: 31
+[INFO ] 2023-12-30 22:30:13.291 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 22:33:20.042 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 22:33:20.052 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 22:33:24.296 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 22:33:24.297 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 22:33:36.653 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:33:36.654 [main] UIAutomationPractice - daySelect: 13
+[INFO ] 2023-12-30 22:33:36.654 [main] UIAutomationPractice - monthSelect: 5
+[INFO ] 2023-12-30 22:33:36.655 [main] UIAutomationPractice - yearSelect: 2024
+[INFO ] 2023-12-30 22:33:36.655 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:33:36.656 [main] UIAutomationPractice - Is match: false
+[INFO ] 2023-12-30 22:33:36.656 [main] UIAutomationPractice - monthYearLabel: May 2024
+[INFO ] 2023-12-30 22:33:42.776 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:33:49.242 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:33:55.555 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:34:02.022 [main] UIAutomationPractice - Required month found? : false
+[INFO ] 2023-12-30 22:34:02.266 [main] UIAutomationPractice - Required month found? : true
+[INFO ] 2023-12-30 22:34:02.304 [main] UIAutomationPractice - Month label text: May 2024
+[INFO ] 2023-12-30 22:34:02.385 [main] UIAutomationPractice - Calender found  : May 2024
+[INFO ] 2023-12-30 22:34:02.746 [main] UIAutomationPractice - Days found: 31
+[INFO ] 2023-12-30 22:34:02.770 [main] UIAutomationPractice - Checking date: 1
+₹ 5,833
+[INFO ] 2023-12-30 22:34:02.842 [main] UIAutomationPractice - Checking date: 2
+₹ 5,833
+[INFO ] 2023-12-30 22:34:02.904 [main] UIAutomationPractice - Checking date: 3
+₹ 5,833
+[INFO ] 2023-12-30 22:34:02.974 [main] UIAutomationPractice - Checking date: 4
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.053 [main] UIAutomationPractice - Checking date: 5
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.140 [main] UIAutomationPractice - Checking date: 6
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.220 [main] UIAutomationPractice - Checking date: 7
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.301 [main] UIAutomationPractice - Checking date: 8
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.382 [main] UIAutomationPractice - Checking date: 9
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.463 [main] UIAutomationPractice - Checking date: 10
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.540 [main] UIAutomationPractice - Checking date: 11
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.617 [main] UIAutomationPractice - Checking date: 12
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.697 [main] UIAutomationPractice - Checking date: 13
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.776 [main] UIAutomationPractice - Checking date: 14
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.852 [main] UIAutomationPractice - Checking date: 15
+₹ 5,833
+[INFO ] 2023-12-30 22:34:03.934 [main] UIAutomationPractice - Checking date: 16
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.017 [main] UIAutomationPractice - Checking date: 17
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.097 [main] UIAutomationPractice - Checking date: 18
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.174 [main] UIAutomationPractice - Checking date: 19
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.253 [main] UIAutomationPractice - Checking date: 20
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.333 [main] UIAutomationPractice - Checking date: 21
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.414 [main] UIAutomationPractice - Checking date: 22
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.498 [main] UIAutomationPractice - Checking date: 23
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.564 [main] UIAutomationPractice - Checking date: 24
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.613 [main] UIAutomationPractice - Checking date: 25
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.655 [main] UIAutomationPractice - Checking date: 26
+₹ 6,132
+[INFO ] 2023-12-30 22:34:04.705 [main] UIAutomationPractice - Checking date: 27
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.750 [main] UIAutomationPractice - Checking date: 28
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.797 [main] UIAutomationPractice - Checking date: 29
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.845 [main] UIAutomationPractice - Checking date: 30
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.894 [main] UIAutomationPractice - Checking date: 31
+₹ 5,833
+[INFO ] 2023-12-30 22:34:04.924 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 22:43:52.600 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 22:43:52.604 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 22:43:55.865 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 22:43:55.866 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 22:44:11.008 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 22:44:11.013 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 22:44:13.124 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 22:44:13.124 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 22:44:24.580 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:44:24.580 [main] UIAutomationPractice - daySelect: 5
+[INFO ] 2023-12-30 22:44:24.580 [main] UIAutomationPractice - monthSelect: 1
+[INFO ] 2023-12-30 22:44:24.580 [main] UIAutomationPractice - yearSelect: 2024
+[INFO ] 2023-12-30 22:44:24.580 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:44:24.580 [main] UIAutomationPractice - Is match: false
+[INFO ] 2023-12-30 22:44:24.580 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-30 22:44:24.614 [main] UIAutomationPractice - Required month found? : true
+[INFO ] 2023-12-30 22:44:24.632 [main] UIAutomationPractice - Month label text: January 2024
+[INFO ] 2023-12-30 22:44:24.669 [main] UIAutomationPractice - Calender found  : January 2024
+[INFO ] 2023-12-30 22:44:24.900 [main] UIAutomationPractice - Days found: 31
+[INFO ] 2023-12-30 22:44:24.932 [main] UIAutomationPractice - Checking date gettxt: 1
+₹ 10,684
+[INFO ] 2023-12-30 22:44:24.964 [main] UIAutomationPractice - Checking date attr  : 1₹ 10,684
+[INFO ] 2023-12-30 22:44:25.002 [main] UIAutomationPractice - Checking date gettxt: 2
+₹ 11,917
+[INFO ] 2023-12-30 22:44:25.021 [main] UIAutomationPractice - Checking date attr  : 2₹ 11,917
+[INFO ] 2023-12-30 22:44:25.056 [main] UIAutomationPractice - Checking date gettxt: 3
+₹ 9,379
+[INFO ] 2023-12-30 22:44:25.073 [main] UIAutomationPractice - Checking date attr  : 3₹ 9,379
+[INFO ] 2023-12-30 22:44:25.107 [main] UIAutomationPractice - Checking date gettxt: 4
+₹ 8,835
+[INFO ] 2023-12-30 22:44:25.126 [main] UIAutomationPractice - Checking date attr  : 4₹ 8,835
+[INFO ] 2023-12-30 22:44:25.157 [main] UIAutomationPractice - Checking date gettxt: 5
+₹ 7,794
+[INFO ] 2023-12-30 22:44:25.172 [main] UIAutomationPractice - Checking date attr  : 5₹ 7,794
+[INFO ] 2023-12-30 22:44:25.186 [main] UIAutomationPractice - Date found, text: 5₹ 7,794
+[INFO ] 2023-12-30 22:44:27.735 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 22:47:51.064 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 22:47:51.068 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 22:47:53.241 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 22:47:53.241 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 22:48:06.651 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:48:06.651 [main] UIAutomationPractice - daySelect: 5
+[INFO ] 2023-12-30 22:48:06.651 [main] UIAutomationPractice - monthSelect: 1
+[INFO ] 2023-12-30 22:48:06.651 [main] UIAutomationPractice - yearSelect: 2024
+[INFO ] 2023-12-30 22:48:06.651 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:48:06.652 [main] UIAutomationPractice - Is match: false
+[INFO ] 2023-12-30 22:48:06.652 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-30 22:48:06.687 [main] UIAutomationPractice - Required month found? : true
+[INFO ] 2023-12-30 22:48:06.705 [main] UIAutomationPractice - Month label text: January 2024
+[INFO ] 2023-12-30 22:48:06.733 [main] UIAutomationPractice - Calender found  : January 2024
+[INFO ] 2023-12-30 22:48:06.952 [main] UIAutomationPractice - Days found: 31
+[INFO ] 2023-12-30 22:48:06.981 [main] UIAutomationPractice - Checking date gettxt: 1
+₹ 10,684
+[INFO ] 2023-12-30 22:48:07.066 [main] UIAutomationPractice - Checking date attr  : 1₹ 10,684
+[INFO ] 2023-12-30 22:48:07.095 [main] UIAutomationPractice - Checking date gettxt: 2
+₹ 11,917
+[INFO ] 2023-12-30 22:48:07.118 [main] UIAutomationPractice - Checking date attr  : 2₹ 11,917
+[INFO ] 2023-12-30 22:48:07.144 [main] UIAutomationPractice - Checking date gettxt: 3
+₹ 9,379
+[INFO ] 2023-12-30 22:48:07.159 [main] UIAutomationPractice - Checking date attr  : 3₹ 9,379
+[INFO ] 2023-12-30 22:48:07.185 [main] UIAutomationPractice - Checking date gettxt: 4
+₹ 8,835
+[INFO ] 2023-12-30 22:48:07.199 [main] UIAutomationPractice - Checking date attr  : 4₹ 8,835
+[INFO ] 2023-12-30 22:48:07.227 [main] UIAutomationPractice - Checking date gettxt: 5
+₹ 7,794
+[INFO ] 2023-12-30 22:48:07.241 [main] UIAutomationPractice - Checking date attr  : 5₹ 7,794
+[INFO ] 2023-12-30 22:48:07.241 [main] UIAutomationPractice - Date found, text: 5
+[INFO ] 2023-12-30 22:48:09.646 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 22:50:14.461 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 22:50:14.465 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 22:50:16.660 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 22:50:16.661 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 22:50:31.151 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:50:31.151 [main] UIAutomationPractice - daySelect: 31
+[INFO ] 2023-12-30 22:50:31.151 [main] UIAutomationPractice - monthSelect: 1
+[INFO ] 2023-12-30 22:50:31.151 [main] UIAutomationPractice - yearSelect: 2024
+[INFO ] 2023-12-30 22:50:31.151 [main] UIAutomationPractice - dateToday: 30-12-202
+[INFO ] 2023-12-30 22:50:31.151 [main] UIAutomationPractice - Is match: false
+[INFO ] 2023-12-30 22:50:31.151 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-30 22:50:31.181 [main] UIAutomationPractice - Required month found? : true
+[INFO ] 2023-12-30 22:50:31.197 [main] UIAutomationPractice - Month label text: January 2024
+[INFO ] 2023-12-30 22:50:31.223 [main] UIAutomationPractice - Calender found  : January 2024
+[INFO ] 2023-12-30 22:50:31.410 [main] UIAutomationPractice - Days found: 31
+[INFO ] 2023-12-30 22:50:31.439 [main] UIAutomationPractice - Checking date gettxt: 1
+₹ 10,684
+[INFO ] 2023-12-30 22:50:31.470 [main] UIAutomationPractice - Checking date attr  : 1₹ 10,684
+[INFO ] 2023-12-30 22:50:31.498 [main] UIAutomationPractice - Checking date gettxt: 2
+₹ 11,917
+[INFO ] 2023-12-30 22:50:31.516 [main] UIAutomationPractice - Checking date attr  : 2₹ 11,917
+[INFO ] 2023-12-30 22:50:31.538 [main] UIAutomationPractice - Checking date gettxt: 3
+₹ 9,379
+[INFO ] 2023-12-30 22:50:31.551 [main] UIAutomationPractice - Checking date attr  : 3₹ 9,379
+[INFO ] 2023-12-30 22:50:31.574 [main] UIAutomationPractice - Checking date gettxt: 4
+₹ 8,835
+[INFO ] 2023-12-30 22:50:31.586 [main] UIAutomationPractice - Checking date attr  : 4₹ 8,835
+[INFO ] 2023-12-30 22:50:31.609 [main] UIAutomationPractice - Checking date gettxt: 5
+₹ 8,190
+[INFO ] 2023-12-30 22:50:31.621 [main] UIAutomationPractice - Checking date attr  : 5₹ 8,190
+[INFO ] 2023-12-30 22:50:31.645 [main] UIAutomationPractice - Checking date gettxt: 6
+₹ 7,794
+[INFO ] 2023-12-30 22:50:31.658 [main] UIAutomationPractice - Checking date attr  : 6₹ 7,794
+[INFO ] 2023-12-30 22:50:31.683 [main] UIAutomationPractice - Checking date gettxt: 7
+₹ 8,590
+[INFO ] 2023-12-30 22:50:31.699 [main] UIAutomationPractice - Checking date attr  : 7₹ 8,590
+[INFO ] 2023-12-30 22:50:31.728 [main] UIAutomationPractice - Checking date gettxt: 8
+₹ 7,054
+[INFO ] 2023-12-30 22:50:31.744 [main] UIAutomationPractice - Checking date attr  : 8₹ 7,054
+[INFO ] 2023-12-30 22:50:31.774 [main] UIAutomationPractice - Checking date gettxt: 9
+₹ 6,287
+[INFO ] 2023-12-30 22:50:31.786 [main] UIAutomationPractice - Checking date attr  : 9₹ 6,287
+[INFO ] 2023-12-30 22:50:31.811 [main] UIAutomationPractice - Checking date gettxt: 10
+₹ 6,243
+[INFO ] 2023-12-30 22:50:31.824 [main] UIAutomationPractice - Checking date attr  : 10₹ 6,243
+[INFO ] 2023-12-30 22:50:31.849 [main] UIAutomationPractice - Checking date gettxt: 11
+₹ 6,287
+[INFO ] 2023-12-30 22:50:31.861 [main] UIAutomationPractice - Checking date attr  : 11₹ 6,287
+[INFO ] 2023-12-30 22:50:31.887 [main] UIAutomationPractice - Checking date gettxt: 12
+₹ 6,077
+[INFO ] 2023-12-30 22:50:31.900 [main] UIAutomationPractice - Checking date attr  : 12₹ 6,077
+[INFO ] 2023-12-30 22:50:31.927 [main] UIAutomationPractice - Checking date gettxt: 13
+₹ 6,287
+[INFO ] 2023-12-30 22:50:31.942 [main] UIAutomationPractice - Checking date attr  : 13₹ 6,287
+[INFO ] 2023-12-30 22:50:31.975 [main] UIAutomationPractice - Checking date gettxt: 14
+₹ 6,287
+[INFO ] 2023-12-30 22:50:31.993 [main] UIAutomationPractice - Checking date attr  : 14₹ 6,287
+[INFO ] 2023-12-30 22:50:32.027 [main] UIAutomationPractice - Checking date gettxt: 15
+₹ 5,822
+[INFO ] 2023-12-30 22:50:32.045 [main] UIAutomationPractice - Checking date attr  : 15₹ 5,822
+[INFO ] 2023-12-30 22:50:32.070 [main] UIAutomationPractice - Checking date gettxt: 16
+₹ 5,822
+[INFO ] 2023-12-30 22:50:32.082 [main] UIAutomationPractice - Checking date attr  : 16₹ 5,822
+[INFO ] 2023-12-30 22:50:32.106 [main] UIAutomationPractice - Checking date gettxt: 17
+₹ 6,077
+[INFO ] 2023-12-30 22:50:32.119 [main] UIAutomationPractice - Checking date attr  : 17₹ 6,077
+[INFO ] 2023-12-30 22:50:32.140 [main] UIAutomationPractice - Checking date gettxt: 18
+₹ 5,822
+[INFO ] 2023-12-30 22:50:32.153 [main] UIAutomationPractice - Checking date attr  : 18₹ 5,822
+[INFO ] 2023-12-30 22:50:32.177 [main] UIAutomationPractice - Checking date gettxt: 19
+₹ 6,077
+[INFO ] 2023-12-30 22:50:32.189 [main] UIAutomationPractice - Checking date attr  : 19₹ 6,077
+[INFO ] 2023-12-30 22:50:32.213 [main] UIAutomationPractice - Checking date gettxt: 20
+₹ 6,077
+[INFO ] 2023-12-30 22:50:32.228 [main] UIAutomationPractice - Checking date attr  : 20₹ 6,077
+[INFO ] 2023-12-30 22:50:32.264 [main] UIAutomationPractice - Checking date gettxt: 21
+₹ 6,287
+[INFO ] 2023-12-30 22:50:32.278 [main] UIAutomationPractice - Checking date attr  : 21₹ 6,287
+[INFO ] 2023-12-30 22:50:32.303 [main] UIAutomationPractice - Checking date gettxt: 22
+₹ 5,833
+[INFO ] 2023-12-30 22:50:32.315 [main] UIAutomationPractice - Checking date attr  : 22₹ 5,833
+[INFO ] 2023-12-30 22:50:32.337 [main] UIAutomationPractice - Checking date gettxt: 23
+₹ 6,287
+[INFO ] 2023-12-30 22:50:32.349 [main] UIAutomationPractice - Checking date attr  : 23₹ 6,287
+[INFO ] 2023-12-30 22:50:32.372 [main] UIAutomationPractice - Checking date gettxt: 24
+₹ 6,077
+[INFO ] 2023-12-30 22:50:32.382 [main] UIAutomationPractice - Checking date attr  : 24₹ 6,077
+[INFO ] 2023-12-30 22:50:32.405 [main] UIAutomationPractice - Checking date gettxt: 25
+₹ 5,822
+[INFO ] 2023-12-30 22:50:32.417 [main] UIAutomationPractice - Checking date attr  : 25₹ 5,822
+[INFO ] 2023-12-30 22:50:32.441 [main] UIAutomationPractice - Checking date gettxt: 26
+₹ 5,771
+[INFO ] 2023-12-30 22:50:32.451 [main] UIAutomationPractice - Checking date attr  : 26₹ 5,771
+[INFO ] 2023-12-30 22:50:32.473 [main] UIAutomationPractice - Checking date gettxt: 27
+₹ 5,822
+[INFO ] 2023-12-30 22:50:32.485 [main] UIAutomationPractice - Checking date attr  : 27₹ 5,822
+[INFO ] 2023-12-30 22:50:32.507 [main] UIAutomationPractice - Checking date gettxt: 28
+₹ 6,900
+[INFO ] 2023-12-30 22:50:32.520 [main] UIAutomationPractice - Checking date attr  : 28₹ 6,900
+[INFO ] 2023-12-30 22:50:32.542 [main] UIAutomationPractice - Checking date gettxt: 29
+₹ 6,077
+[INFO ] 2023-12-30 22:50:32.555 [main] UIAutomationPractice - Checking date attr  : 29₹ 6,077
+[INFO ] 2023-12-30 22:50:32.575 [main] UIAutomationPractice - Checking date gettxt: 30
+₹ 5,718
+[INFO ] 2023-12-30 22:50:32.586 [main] UIAutomationPractice - Checking date attr  : 30₹ 5,718
+[INFO ] 2023-12-30 22:50:32.608 [main] UIAutomationPractice - Checking date gettxt: 31
+₹ 5,718
+[INFO ] 2023-12-30 22:50:32.622 [main] UIAutomationPractice - Checking date attr  : 31₹ 5,718
+[INFO ] 2023-12-30 22:50:32.622 [main] UIAutomationPractice - Date found, text: 31
+[INFO ] 2023-12-30 22:50:35.027 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:04:52.817 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:04:52.819 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:04:55.338 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:04:55.338 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:05:17.519 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 23:17:23.315 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:17:23.318 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:17:26.933 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:17:26.933 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:17:38.284 [main] UIAutomationPractice - monthYearLabel: January 202
+[INFO ] 2023-12-30 23:17:45.518 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 23:19:20.973 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:19:20.977 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:19:24.040 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:19:24.041 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:19:34.068 [main] UIAutomationPractice - dateSelect: 01-2024
+[INFO ] 2023-12-30 23:19:34.070 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-30 23:19:34.401 [main] UIAutomationPractice - Days found: 31
+[INFO ] 2023-12-30 23:19:34.536 [main] UIAutomationPractice - Checking date gettxt: 1
+₹ 10,684
+[INFO ] 2023-12-30 23:19:34.576 [main] UIAutomationPractice - Checking date attr  : 1₹ 10,684
+[INFO ] 2023-12-30 23:19:34.599 [main] UIAutomationPractice - Checking date gettxt: 2
+₹ 11,917
+[INFO ] 2023-12-30 23:19:34.614 [main] UIAutomationPractice - Checking date attr  : 2₹ 11,917
+[INFO ] 2023-12-30 23:19:34.638 [main] UIAutomationPractice - Checking date gettxt: 3
+₹ 10,368
+[INFO ] 2023-12-30 23:19:34.652 [main] UIAutomationPractice - Checking date attr  : 3₹ 10,368
+[INFO ] 2023-12-30 23:19:34.676 [main] UIAutomationPractice - Checking date gettxt: 4
+₹ 8,709
+[INFO ] 2023-12-30 23:19:34.686 [main] UIAutomationPractice - Checking date attr  : 4₹ 8,709
+[INFO ] 2023-12-30 23:19:34.713 [main] UIAutomationPractice - Checking date gettxt: 5
+₹ 8,190
+[INFO ] 2023-12-30 23:19:34.724 [main] UIAutomationPractice - Checking date attr  : 5₹ 8,190
+[INFO ] 2023-12-30 23:19:34.747 [main] UIAutomationPractice - Checking date gettxt: 6
+₹ 7,794
+[INFO ] 2023-12-30 23:19:34.759 [main] UIAutomationPractice - Checking date attr  : 6₹ 7,794
+[INFO ] 2023-12-30 23:19:34.781 [main] UIAutomationPractice - Checking date gettxt: 7
+₹ 8,590
+[INFO ] 2023-12-30 23:19:34.792 [main] UIAutomationPractice - Checking date attr  : 7₹ 8,590
+[INFO ] 2023-12-30 23:19:34.815 [main] UIAutomationPractice - Checking date gettxt: 8
+₹ 7,054
+[INFO ] 2023-12-30 23:19:34.826 [main] UIAutomationPractice - Checking date attr  : 8₹ 7,054
+[INFO ] 2023-12-30 23:19:34.849 [main] UIAutomationPractice - Checking date gettxt: 9
+₹ 6,287
+[INFO ] 2023-12-30 23:19:34.861 [main] UIAutomationPractice - Checking date attr  : 9₹ 6,287
+[INFO ] 2023-12-30 23:19:34.883 [main] UIAutomationPractice - Checking date gettxt: 10
+₹ 6,243
+[INFO ] 2023-12-30 23:19:34.894 [main] UIAutomationPractice - Checking date attr  : 10₹ 6,243
+[INFO ] 2023-12-30 23:19:34.917 [main] UIAutomationPractice - Checking date gettxt: 11
+₹ 6,287
+[INFO ] 2023-12-30 23:19:34.929 [main] UIAutomationPractice - Checking date attr  : 11₹ 6,287
+[INFO ] 2023-12-30 23:19:34.953 [main] UIAutomationPractice - Checking date gettxt: 12
+₹ 6,077
+[INFO ] 2023-12-30 23:19:34.966 [main] UIAutomationPractice - Checking date attr  : 12₹ 6,077
+[INFO ] 2023-12-30 23:19:34.988 [main] UIAutomationPractice - Checking date gettxt: 13
+₹ 6,287
+[INFO ] 2023-12-30 23:19:35.000 [main] UIAutomationPractice - Checking date attr  : 13₹ 6,287
+[INFO ] 2023-12-30 23:19:35.023 [main] UIAutomationPractice - Checking date gettxt: 14
+₹ 6,287
+[INFO ] 2023-12-30 23:19:35.034 [main] UIAutomationPractice - Checking date attr  : 14₹ 6,287
+[INFO ] 2023-12-30 23:19:35.058 [main] UIAutomationPractice - Checking date gettxt: 15
+₹ 5,822
+[INFO ] 2023-12-30 23:19:35.070 [main] UIAutomationPractice - Checking date attr  : 15₹ 5,822
+[INFO ] 2023-12-30 23:19:35.092 [main] UIAutomationPractice - Checking date gettxt: 16
+₹ 5,822
+[INFO ] 2023-12-30 23:19:35.104 [main] UIAutomationPractice - Checking date attr  : 16₹ 5,822
+[INFO ] 2023-12-30 23:19:35.126 [main] UIAutomationPractice - Checking date gettxt: 17
+₹ 6,077
+[INFO ] 2023-12-30 23:19:35.138 [main] UIAutomationPractice - Checking date attr  : 17₹ 6,077
+[INFO ] 2023-12-30 23:19:35.161 [main] UIAutomationPractice - Checking date gettxt: 18
+₹ 5,822
+[INFO ] 2023-12-30 23:19:35.173 [main] UIAutomationPractice - Checking date attr  : 18₹ 5,822
+[INFO ] 2023-12-30 23:19:35.196 [main] UIAutomationPractice - Checking date gettxt: 19
+₹ 6,077
+[INFO ] 2023-12-30 23:19:35.206 [main] UIAutomationPractice - Checking date attr  : 19₹ 6,077
+[INFO ] 2023-12-30 23:19:35.229 [main] UIAutomationPractice - Checking date gettxt: 20
+₹ 6,077
+[INFO ] 2023-12-30 23:19:35.242 [main] UIAutomationPractice - Checking date attr  : 20₹ 6,077
+[INFO ] 2023-12-30 23:19:35.269 [main] UIAutomationPractice - Checking date gettxt: 21
+₹ 6,287
+[INFO ] 2023-12-30 23:19:35.281 [main] UIAutomationPractice - Checking date attr  : 21₹ 6,287
+[INFO ] 2023-12-30 23:19:35.306 [main] UIAutomationPractice - Checking date gettxt: 22
+₹ 5,833
+[INFO ] 2023-12-30 23:19:35.317 [main] UIAutomationPractice - Checking date attr  : 22₹ 5,833
+[INFO ] 2023-12-30 23:19:35.341 [main] UIAutomationPractice - Checking date gettxt: 23
+₹ 6,287
+[INFO ] 2023-12-30 23:19:35.353 [main] UIAutomationPractice - Checking date attr  : 23₹ 6,287
+[INFO ] 2023-12-30 23:19:35.375 [main] UIAutomationPractice - Checking date gettxt: 24
+₹ 6,077
+[INFO ] 2023-12-30 23:19:35.387 [main] UIAutomationPractice - Checking date attr  : 24₹ 6,077
+[INFO ] 2023-12-30 23:19:35.423 [main] UIAutomationPractice - Checking date gettxt: 25
+₹ 5,822
+[INFO ] 2023-12-30 23:19:35.439 [main] UIAutomationPractice - Checking date attr  : 25₹ 5,822
+[INFO ] 2023-12-30 23:19:35.465 [main] UIAutomationPractice - Checking date gettxt: 26
+₹ 5,771
+[INFO ] 2023-12-30 23:19:35.476 [main] UIAutomationPractice - Checking date attr  : 26₹ 5,771
+[INFO ] 2023-12-30 23:19:35.500 [main] UIAutomationPractice - Checking date gettxt: 27
+₹ 5,822
+[INFO ] 2023-12-30 23:19:35.510 [main] UIAutomationPractice - Checking date attr  : 27₹ 5,822
+[INFO ] 2023-12-30 23:19:35.533 [main] UIAutomationPractice - Checking date gettxt: 28
+₹ 6,900
+[INFO ] 2023-12-30 23:19:35.543 [main] UIAutomationPractice - Checking date attr  : 28₹ 6,900
+[INFO ] 2023-12-30 23:19:35.566 [main] UIAutomationPractice - Checking date gettxt: 29
+₹ 6,077
+[INFO ] 2023-12-30 23:19:35.577 [main] UIAutomationPractice - Checking date attr  : 29₹ 6,077
+[INFO ] 2023-12-30 23:19:35.600 [main] UIAutomationPractice - Checking date gettxt: 30
+₹ 5,718
+[INFO ] 2023-12-30 23:19:35.611 [main] UIAutomationPractice - Checking date attr  : 30₹ 5,718
+[INFO ] 2023-12-30 23:19:35.634 [main] UIAutomationPractice - Checking date gettxt: 31
+₹ 5,718
+[INFO ] 2023-12-30 23:19:35.644 [main] UIAutomationPractice - Checking date attr  : 31₹ 5,718
+[INFO ] 2023-12-30 23:19:35.645 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:21:00.507 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:21:00.510 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:21:02.552 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:21:02.553 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:21:12.983 [main] UIAutomationPractice - dateSelect: 01-2024
+[INFO ] 2023-12-30 23:21:12.983 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-30 23:21:13.306 [main] UIAutomationPractice - Days remaining in month: 31
+[INFO ] 2023-12-30 23:21:13.663 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:21:51.178 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:21:51.182 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:21:54.028 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:21:54.029 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:22:03.398 [main] UIAutomationPractice - dateSelect: 01-2024
+[INFO ] 2023-12-30 23:22:03.400 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-30 23:22:03.696 [main] UIAutomationPractice - Days remaining in month: 31
+[INFO ] 2023-12-30 23:22:04.061 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:22:41.162 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:22:41.165 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:22:43.056 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:22:43.056 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:22:54.002 [main] UIAutomationPractice - dateSelect: 01-2024
+[INFO ] 2023-12-30 23:22:54.002 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-30 23:22:54.229 [main] UIAutomationPractice - Days remaining in month: 31
+[INFO ] 2023-12-30 23:22:54.583 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:23:27.464 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:23:27.467 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:23:30.639 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:23:30.640 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:23:40.529 [main] UIAutomationPractice - dateSelect: 12-2023
+[INFO ] 2023-12-30 23:23:40.529 [main] UIAutomationPractice - monthYearLabel: December 2023
+[INFO ] 2023-12-30 23:23:40.864 [main] UIAutomationPractice - Days remaining in month: 2
+[INFO ] 2023-12-30 23:23:40.921 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:25:08.913 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:25:08.917 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:25:10.782 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:25:10.782 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:25:22.452 [main] UIAutomationPractice - dateSelect: 12-2023
+[INFO ] 2023-12-30 23:25:22.452 [main] UIAutomationPractice - monthYearLabel: December 2023
+[INFO ] 2023-12-30 23:25:22.663 [main] UIAutomationPractice - Days remaining in month: 2
+[INFO ] 2023-12-30 23:25:22.694 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:27:23.091 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:27:23.094 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:27:25.135 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:27:25.136 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:27:35.194 [main] UIAutomationPractice - dateSelect: 12-2023
+[INFO ] 2023-12-30 23:27:35.195 [main] UIAutomationPractice - monthYearLabel: December 2023
+[INFO ] 2023-12-30 23:27:35.400 [main] UIAutomationPractice - Days remaining in month: 2
+[INFO ] 2023-12-30 23:27:35.430 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:29:22.167 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:29:22.169 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:29:24.172 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:29:24.172 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:29:33.919 [main] UIAutomationPractice - dateSelect: 12-2023
+[INFO ] 2023-12-30 23:29:33.919 [main] UIAutomationPractice - monthYearLabel: December 2023
+[INFO ] 2023-12-30 23:29:34.158 [main] UIAutomationPractice - Days remaining in month: 2
+[INFO ] 2023-12-30 23:29:34.192 [main] UIAutomationPractice - dayEl.getText: 30
+₹ 19,949
+[INFO ] 2023-12-30 23:29:34.193 [main] UIAutomationPractice - temp: 30
+[INFO ] 2023-12-30 23:29:34.217 [main] UIAutomationPractice - dayEl.getText: 31
+₹ 11,077
+[INFO ] 2023-12-30 23:29:34.217 [main] UIAutomationPractice - temp: 31
+[INFO ] 2023-12-30 23:29:34.217 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:34:36.697 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:34:36.699 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:34:38.651 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:34:38.651 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:34:49.125 [main] UIAutomationPractice - dateSelect: 12-2023
+[INFO ] 2023-12-30 23:34:49.125 [main] UIAutomationPractice - monthYearLabel: December 2023
+[INFO ] 2023-12-30 23:34:49.452 [main] UIAutomationPractice - Days remaining in month: 2
+[INFO ] 2023-12-30 23:34:49.485 [main] UIAutomationPractice - temp		: 30
+[INFO ] 2023-12-30 23:34:49.485 [main] UIAutomationPractice - daySelect : 31
+[INFO ] 2023-12-30 23:34:49.509 [main] UIAutomationPractice - temp		: 31
+[INFO ] 2023-12-30 23:34:49.509 [main] UIAutomationPractice - daySelect : 31
+[INFO ] 2023-12-30 23:34:53.237 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 23:37:01.988 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:37:01.991 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:37:04.435 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:37:04.435 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:37:13.981 [main] UIAutomationPractice - dateSelect: 12-2023
+[INFO ] 2023-12-30 23:37:13.981 [main] UIAutomationPractice - monthYearLabel: December 2023
+[INFO ] 2023-12-30 23:37:14.309 [main] UIAutomationPractice - Days remaining in month: 2
+[INFO ] 2023-12-30 23:37:14.344 [main] UIAutomationPractice - temp		: 30
+[INFO ] 2023-12-30 23:37:14.344 [main] UIAutomationPractice - daySelect : 31
+[INFO ] 2023-12-30 23:37:14.370 [main] UIAutomationPractice - temp		: 31
+[INFO ] 2023-12-30 23:37:14.370 [main] UIAutomationPractice - daySelect : 31
+[INFO ] 2023-12-30 23:37:16.446 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:38:49.302 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:38:49.305 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:38:52.624 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:38:52.624 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:39:02.398 [main] UIAutomationPractice - dateSelect: 12-2023
+[INFO ] 2023-12-30 23:39:02.399 [main] UIAutomationPractice - monthYearLabel: December 2023
+[INFO ] 2023-12-30 23:39:02.790 [main] UIAutomationPractice - Days remaining in month: 2
+[INFO ] 2023-12-30 23:39:02.826 [main] UIAutomationPractice - temp		: 30
+[INFO ] 2023-12-30 23:39:02.827 [main] UIAutomationPractice - daySelect : 31
+[INFO ] 2023-12-30 23:39:02.850 [main] UIAutomationPractice - temp		: 31
+[INFO ] 2023-12-30 23:39:02.850 [main] UIAutomationPractice - daySelect : 31
+[INFO ] 2023-12-30 23:39:04.887 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:39:20.190 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:39:20.193 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:39:22.607 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:39:22.609 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:39:32.401 [main] UIAutomationPractice - dateSelect: 01-2023
+[INFO ] 2023-12-30 23:39:32.401 [main] UIAutomationPractice - monthYearLabel: January 2023
+[INFO ] 2023-12-30 23:39:45.849 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 23:39:59.606 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 23:39:59.610 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:40:02.084 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:40:02.084 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:40:13.592 [main] UIAutomationPractice - dateSelect: 01-2024
+[INFO ] 2023-12-30 23:40:13.592 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-30 23:40:14.077 [main] UIAutomationPractice - Days remaining in month: 31
+[INFO ] 2023-12-30 23:40:14.113 [main] UIAutomationPractice - temp		: 1
+[INFO ] 2023-12-30 23:40:14.113 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.132 [main] UIAutomationPractice - temp		: 2
+[INFO ] 2023-12-30 23:40:14.133 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.161 [main] UIAutomationPractice - temp		: 3
+[INFO ] 2023-12-30 23:40:14.162 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.186 [main] UIAutomationPractice - temp		: 4
+[INFO ] 2023-12-30 23:40:14.186 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.210 [main] UIAutomationPractice - temp		: 5
+[INFO ] 2023-12-30 23:40:14.210 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.234 [main] UIAutomationPractice - temp		: 6
+[INFO ] 2023-12-30 23:40:14.235 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.258 [main] UIAutomationPractice - temp		: 7
+[INFO ] 2023-12-30 23:40:14.259 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.283 [main] UIAutomationPractice - temp		: 8
+[INFO ] 2023-12-30 23:40:14.283 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.310 [main] UIAutomationPractice - temp		: 9
+[INFO ] 2023-12-30 23:40:14.311 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.332 [main] UIAutomationPractice - temp		: 10
+[INFO ] 2023-12-30 23:40:14.332 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.351 [main] UIAutomationPractice - temp		: 11
+[INFO ] 2023-12-30 23:40:14.351 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.376 [main] UIAutomationPractice - temp		: 12
+[INFO ] 2023-12-30 23:40:14.376 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.402 [main] UIAutomationPractice - temp		: 13
+[INFO ] 2023-12-30 23:40:14.402 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.424 [main] UIAutomationPractice - temp		: 14
+[INFO ] 2023-12-30 23:40:14.425 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.451 [main] UIAutomationPractice - temp		: 15
+[INFO ] 2023-12-30 23:40:14.451 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.472 [main] UIAutomationPractice - temp		: 16
+[INFO ] 2023-12-30 23:40:14.472 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.494 [main] UIAutomationPractice - temp		: 17
+[INFO ] 2023-12-30 23:40:14.494 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.517 [main] UIAutomationPractice - temp		: 18
+[INFO ] 2023-12-30 23:40:14.518 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.542 [main] UIAutomationPractice - temp		: 19
+[INFO ] 2023-12-30 23:40:14.542 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.566 [main] UIAutomationPractice - temp		: 20
+[INFO ] 2023-12-30 23:40:14.566 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:14.589 [main] UIAutomationPractice - temp		: 21
+[INFO ] 2023-12-30 23:40:14.589 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-30 23:40:16.565 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-30 23:51:13.101 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-30 23:51:13.105 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 23:51:16.155 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 23:51:16.157 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 23:51:26.457 [main] UIAutomationPractice - dateSelect: 01-2024
+[INFO ] 2023-12-30 23:51:26.457 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-30 23:51:39.935 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-31 00:01:31.475 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 00:01:31.478 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 00:01:33.909 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 00:01:33.910 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 00:01:43.322 [main] UIAutomationPractice - monthSelect: 1
+[INFO ] 2023-12-31 00:01:43.322 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-31 00:01:56.644 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-31 00:04:19.440 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 00:04:19.444 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 00:04:22.062 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 00:04:22.062 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 00:04:30.906 [main] UIAutomationPractice - monthSelect: 1
+[INFO ] 2023-12-31 00:04:30.908 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-31 00:04:43.956 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-31 00:05:16.736 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 00:05:16.739 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 00:05:19.010 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 00:05:19.012 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 00:05:28.365 [main] UIAutomationPractice - monthSelect: 1
+[INFO ] 2023-12-31 00:05:28.365 [main] UIAutomationPractice - daySelect: 21
+[INFO ] 2023-12-31 00:05:28.365 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-31 00:05:35.682 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-31 00:17:03.879 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 00:17:03.883 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 00:17:08.110 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 00:17:08.110 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 00:17:17.444 [main] UIAutomationPractice - monthSelect: 1
+[INFO ] 2023-12-31 00:17:17.444 [main] UIAutomationPractice - daySelect: 21
+[INFO ] 2023-12-31 00:17:17.444 [main] UIAutomationPractice - monthYearLabel: January 2024
+[INFO ] 2023-12-31 00:17:17.790 [main] UIAutomationPractice - Days remaining in month: 31
+[INFO ] 2023-12-31 00:17:17.821 [main] UIAutomationPractice - temp		: 1
+[INFO ] 2023-12-31 00:17:17.822 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:17.843 [main] UIAutomationPractice - temp		: 2
+[INFO ] 2023-12-31 00:17:17.843 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:17.867 [main] UIAutomationPractice - temp		: 3
+[INFO ] 2023-12-31 00:17:17.868 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:17.906 [main] UIAutomationPractice - temp		: 4
+[INFO ] 2023-12-31 00:17:17.906 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:17.930 [main] UIAutomationPractice - temp		: 5
+[INFO ] 2023-12-31 00:17:17.930 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:17.954 [main] UIAutomationPractice - temp		: 6
+[INFO ] 2023-12-31 00:17:17.954 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:17.978 [main] UIAutomationPractice - temp		: 7
+[INFO ] 2023-12-31 00:17:17.979 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.002 [main] UIAutomationPractice - temp		: 8
+[INFO ] 2023-12-31 00:17:18.002 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.022 [main] UIAutomationPractice - temp		: 9
+[INFO ] 2023-12-31 00:17:18.023 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.044 [main] UIAutomationPractice - temp		: 10
+[INFO ] 2023-12-31 00:17:18.045 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.070 [main] UIAutomationPractice - temp		: 11
+[INFO ] 2023-12-31 00:17:18.070 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.087 [main] UIAutomationPractice - temp		: 12
+[INFO ] 2023-12-31 00:17:18.088 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.108 [main] UIAutomationPractice - temp		: 13
+[INFO ] 2023-12-31 00:17:18.108 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.132 [main] UIAutomationPractice - temp		: 14
+[INFO ] 2023-12-31 00:17:18.132 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.151 [main] UIAutomationPractice - temp		: 15
+[INFO ] 2023-12-31 00:17:18.151 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.165 [main] UIAutomationPractice - temp		: 16
+[INFO ] 2023-12-31 00:17:18.165 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.179 [main] UIAutomationPractice - temp		: 17
+[INFO ] 2023-12-31 00:17:18.179 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.198 [main] UIAutomationPractice - temp		: 18
+[INFO ] 2023-12-31 00:17:18.199 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.215 [main] UIAutomationPractice - temp		: 19
+[INFO ] 2023-12-31 00:17:18.216 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.231 [main] UIAutomationPractice - temp		: 20
+[INFO ] 2023-12-31 00:17:18.231 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:18.251 [main] UIAutomationPractice - temp		: 21
+[INFO ] 2023-12-31 00:17:18.251 [main] UIAutomationPractice - daySelect : 21
+[INFO ] 2023-12-31 00:17:20.201 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-31 00:18:14.574 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 00:18:14.578 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 00:18:16.725 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 00:18:16.725 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 00:18:26.168 [main] UIAutomationPractice - Days remaining in month: 31
+[INFO ] 2023-12-31 00:18:28.642 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-31 00:18:43.439 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 00:18:43.442 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 00:18:45.795 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 00:18:45.796 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 00:18:55.160 [main] UIAutomationPractice - Days remaining in month: 29
+[INFO ] 2023-12-31 00:18:57.994 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-31 00:24:02.742 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 00:24:02.744 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 00:24:05.171 [main] UIAutomationPractice - implicitlyWait set to 6
+[INFO ] 2023-12-31 00:24:05.171 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 00:24:05.171 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 00:24:14.406 [main] UIAutomationPractice - monthYearSelect set to 08-2024
+[INFO ] 2023-12-31 00:24:14.407 [main] UIAutomationPractice - daySelect set to 2
+[INFO ] 2023-12-31 00:24:14.407 [main] UIAutomationPractice - monthSelect set to 8
+[INFO ] 2023-12-31 00:24:14.407 [main] UIAutomationPractice - yearSelect set to 2024
+[INFO ] 2023-12-31 00:24:14.407 [main] UIAutomationPractice - monthYearLabel set to August 2024
+[INFO ] 2023-12-31 00:24:20.437 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 00:24:27.823 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-31 00:28:05.867 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 00:28:05.871 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 00:28:08.706 [main] UIAutomationPractice - implicitlyWait set to 6
+[INFO ] 2023-12-31 00:28:08.707 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 00:28:08.707 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 00:28:17.221 [main] UIAutomationPractice - monthYearSelect set to 08-2024
+[INFO ] 2023-12-31 00:28:17.222 [main] UIAutomationPractice - daySelect set to 2
+[INFO ] 2023-12-31 00:28:17.222 [main] UIAutomationPractice - monthSelect set to 8
+[INFO ] 2023-12-31 00:28:17.222 [main] UIAutomationPractice - yearSelect set to 2024
+[INFO ] 2023-12-31 00:28:17.222 [main] UIAutomationPractice - monthYearLabel set to August 2024
+[INFO ] 2023-12-31 00:28:23.248 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 00:31:43.737 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 00:31:43.742 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 00:31:47.930 [main] UIAutomationPractice - implicitlyWait set to 6
+[INFO ] 2023-12-31 00:31:47.931 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 00:31:47.932 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 00:32:01.273 [main] UIAutomationPractice - monthYearSelect set to 08-2024
+[INFO ] 2023-12-31 00:32:01.274 [main] UIAutomationPractice - daySelect set to 2
+[INFO ] 2023-12-31 00:32:01.275 [main] UIAutomationPractice - monthSelect set to 8
+[INFO ] 2023-12-31 00:32:01.275 [main] UIAutomationPractice - yearSelect set to 2024
+[INFO ] 2023-12-31 00:32:01.276 [main] UIAutomationPractice - monthYearLabel set to August 2024
+[INFO ] 2023-12-31 00:32:07.315 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 00:32:13.748 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 00:32:19.855 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 00:32:26.073 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 00:32:32.221 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 00:32:38.461 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 00:32:38.608 [main] UIAutomationPractice - isCalFound set to true
+[INFO ] 2023-12-31 00:32:38.897 [main] UIAutomationPractice - Days remaining in month: 31
+[INFO ] 2023-12-31 00:32:38.919 [main] UIAutomationPractice - Temp set to 1
+[INFO ] 2023-12-31 00:32:38.933 [main] UIAutomationPractice - Temp set to 2
+[INFO ] 2023-12-31 00:32:40.753 [main] UIAutomationPractice - uiSeleniumQuit
