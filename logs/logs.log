@@ -525,3 +525,52 @@
 [INFO ] 2023-12-29 22:55:13.821 [main] UIAutomationPract - uiSeleniumScript
 [INFO ] 2023-12-29 22:55:13.821 [main] UIAutomationPract - Loading url: https://www.path2usa.com/travel-companion/
 [INFO ] 2023-12-29 22:55:27.514 [main] UIAutomationPract - Exception occurred
+[INFO ] 2023-12-30 02:03:06.874 [main] UIAutomationPract - main
+[INFO ] 2023-12-30 02:03:06.915 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-30 02:08:19.361 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-30 02:08:19.361 [main] UIAutomationPract - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 02:09:24.383 [main] UIAutomationPract - Days found: 0
+[INFO ] 2023-12-30 02:09:24.384 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-30 02:18:19.489 [main] UIAutomationPract - main
+[INFO ] 2023-12-30 02:18:19.491 [main] UIAutomationPract - uiSeleniumStart
+[INFO ] 2023-12-30 02:18:23.439 [main] UIAutomationPract - uiSeleniumScript
+[INFO ] 2023-12-30 02:18:23.439 [main] UIAutomationPract - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 02:18:55.004 [main] UIAutomationPract - Days found: 0
+[INFO ] 2023-12-30 02:18:55.004 [main] UIAutomationPract - uiSeleniumQuit
+[INFO ] 2023-12-30 12:05:41.803 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:05:41.834 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 12:07:03.997 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:07:04.005 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 12:09:35.427 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:09:35.431 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 12:10:45.367 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:10:45.372 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 12:11:23.779 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:11:44.384 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:15:14.971 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:15:37.538 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:17:11.626 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:17:34.605 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:17:55.634 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:26:46.442 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:26:46.454 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 12:28:02.518 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:28:02.521 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 12:28:55.948 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 12:28:55.949 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 12:31:29.866 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 12:43:51.177 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:43:51.194 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 12:44:16.286 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 12:44:16.286 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 12:44:29.381 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 12:45:44.288 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:45:44.293 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 12:45:55.418 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 12:45:55.419 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 12:46:20.081 [main] UIAutomationPractice - Exception occurred
+[INFO ] 2023-12-30 12:48:17.578 [main] UIAutomationPractice - main
+[INFO ] 2023-12-30 12:48:17.583 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-30 12:48:53.768 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-30 12:48:53.768 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-30 12:50:08.878 [main] UIAutomationPractice - Exception occurred
