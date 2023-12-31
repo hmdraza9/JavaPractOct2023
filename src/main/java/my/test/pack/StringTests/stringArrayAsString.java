@@ -5,7 +5,6 @@ import static java.lang.System.out;
 public class stringArrayAsString {
 
 	public static void mainstringArrayAsString() {
-		// TODO Auto-generated method stub
 
 		char arr[] = { 'a', 'b', ' ', 'c', 'd', ';', 'e', 'f', ' ', 'g', 'h', ';', 'i', 'j', ' ', 'k', 'l' };
 		String str = new String(arr);
