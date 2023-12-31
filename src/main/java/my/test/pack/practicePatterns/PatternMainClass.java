@@ -2,7 +2,7 @@ package my.test.pack.practicePatterns;
 
 public class PatternMainClass {
 
-	public static void main(String[] args) {
+	public static void mainPatternMainClass() {
 		// URL practice -
 		// https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
 
@@ -38,7 +38,7 @@ public class PatternMainClass {
 
 					for (int l = 1; l <= height; l++) {
 
-						System.out.print(i + "" + j + "" + k + "" + l+" ");
+						System.out.print(i + "" + j + "" + k + "" + l + " ");
 					}
 					System.out.print("      ");
 

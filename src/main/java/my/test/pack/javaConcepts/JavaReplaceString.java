@@ -2,7 +2,7 @@ package my.test.pack.javaConcepts;
 
 public class JavaReplaceString {
 
-	public static void main(String[] args) {
+	public static void mainJavaReplaceString() {
 		// TODO Auto-generated method stub
 
 		System.out.println("Ham5id123".replaceAll("\\d", ""));

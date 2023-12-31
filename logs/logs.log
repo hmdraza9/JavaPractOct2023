@@ -1642,3 +1642,83 @@
 [INFO ] 2023-12-31 01:13:13.084 [main] UIAutomationPractice - isCalFound set to false
 [INFO ] 2023-12-31 01:13:13.205 [main] UIAutomationPractice - isCalFound set to true
 [INFO ] 2023-12-31 01:13:15.869 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-31 01:26:22.997 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 01:26:22.999 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 01:26:40.740 [main] UIAutomationPractice - implicitlyWait set to 6
+[INFO ] 2023-12-31 01:26:40.741 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 01:26:40.741 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 01:27:05.966 [main] UIAutomationPractice - monthYearSelect set to 08-2024
+[INFO ] 2023-12-31 01:27:05.966 [main] UIAutomationPractice - daySelect set to 2
+[INFO ] 2023-12-31 01:27:05.967 [main] UIAutomationPractice - monthSelect set to 8
+[INFO ] 2023-12-31 01:27:05.967 [main] UIAutomationPractice - yearSelect set to 2024
+[INFO ] 2023-12-31 01:27:05.967 [main] UIAutomationPractice - monthYearLabel set to August 2024
+[INFO ] 2023-12-31 01:27:12.013 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:27:18.159 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:27:24.308 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:27:30.521 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:27:36.714 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:27:42.861 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 01:27:43.029 [main] UIAutomationPractice - isCalFound set to true
+[INFO ] 2023-12-31 01:27:45.631 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-31 09:53:00.401 [main] TestingMethods - false
+[INFO ] 2023-12-31 09:53:29.626 [main] TestingMethods - false
+[INFO ] 2023-12-31 10:50:08.330 [main] TestingMethods - false
+[INFO ] 2023-12-31 10:52:12.147 [main] TestingMethods - false
+[INFO ] 2023-12-31 10:52:46.914 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 10:52:46.914 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 10:53:00.635 [main] UIAutomationPractice - implicitlyWait set to 6
+[INFO ] 2023-12-31 10:53:00.635 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 10:53:00.637 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 10:53:17.005 [main] UIAutomationPractice - monthYearSelect set to 08-2024
+[INFO ] 2023-12-31 10:53:17.005 [main] UIAutomationPractice - daySelect set to 2
+[INFO ] 2023-12-31 10:53:17.005 [main] UIAutomationPractice - monthSelect set to 8
+[INFO ] 2023-12-31 10:53:17.005 [main] UIAutomationPractice - yearSelect set to 2024
+[INFO ] 2023-12-31 10:53:17.006 [main] UIAutomationPractice - monthYearLabel set to August 2024
+[INFO ] 2023-12-31 10:53:23.102 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 10:53:29.368 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 10:53:35.555 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 10:53:41.754 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 10:53:48.004 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 10:53:54.250 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 10:53:54.411 [main] UIAutomationPractice - isCalFound set to true
+[INFO ] 2023-12-31 10:53:57.883 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-31 10:53:58.524 [main] FileDownloadLoad - C:\GitClonesNew\JavaPractOct2023
+[INFO ] 2023-12-31 10:53:58.524 [main] FileDownloadLoad - File not exist, downloading...
+[INFO ] 2023-12-31 10:53:58.525 [main] FileDownloadLoad - File not exist, downloading...
+[INFO ] 2023-12-31 10:54:00.134 [main] FileDownloadLoad - File downloaded, file name: logFileTest-31-Dec-2023_10-53-58-522.txt, file size: 289kB
+[INFO ] 2023-12-31 10:54:00.213 [main] FileDownloadLoad - URL: https://public.karat.io/content/q015/urls.txt
+[INFO ] 2023-12-31 10:54:00.213 [main] FileDownloadLoad - Occurrence: 1170
+[INFO ] 2023-12-31 10:54:00.213 [main] FileDownloadLoad - fileObj: true
+[INFO ] 2023-12-31 10:58:45.115 [main] TestingMethods - false
+[INFO ] 2023-12-31 10:59:31.782 [main] UIAutomationPractice - selectDateFromCalendar
+[INFO ] 2023-12-31 10:59:31.782 [main] UIAutomationPractice - uiSeleniumStart
+[INFO ] 2023-12-31 10:59:35.328 [main] UIAutomationPractice - implicitlyWait set to 6
+[INFO ] 2023-12-31 10:59:35.331 [main] UIAutomationPractice - uiSeleniumScript
+[INFO ] 2023-12-31 10:59:35.331 [main] UIAutomationPractice - Loading url: https://www.makemytrip.com/
+[INFO ] 2023-12-31 10:59:48.710 [main] UIAutomationPractice - Screenshot taken at: screenshot//scr_part_31-12-2023_10-59-48-701.jpg
+[INFO ] 2023-12-31 10:59:49.297 [main] UIAutomationPractice - monthYearSelect set to 08-2024
+[INFO ] 2023-12-31 10:59:49.297 [main] UIAutomationPractice - daySelect set to 2
+[INFO ] 2023-12-31 10:59:49.298 [main] UIAutomationPractice - monthSelect set to 8
+[INFO ] 2023-12-31 10:59:49.298 [main] UIAutomationPractice - yearSelect set to 2024
+[INFO ] 2023-12-31 10:59:49.298 [main] UIAutomationPractice - monthYearLabel set to August 2024
+[INFO ] 2023-12-31 10:59:55.334 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 11:00:01.572 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 11:00:07.730 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 11:00:13.865 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 11:00:20.054 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 11:00:26.317 [main] UIAutomationPractice - isCalFound set to false
+[INFO ] 2023-12-31 11:00:26.442 [main] UIAutomationPractice - isCalFound set to true
+[INFO ] 2023-12-31 11:00:26.795 [main] UIAutomationPractice - Screenshot taken at: screenshot//scr_31-12-2023_11-00-26-793.png
+[INFO ] 2023-12-31 11:00:27.190 [main] UIAutomationPractice - Screenshot taken at: screenshot//scr_part_31-12-2023_11-00-27-187.jpg
+[INFO ] 2023-12-31 11:00:27.547 [main] UIAutomationPractice - Screenshot taken at: screenshot//scr_part_31-12-2023_11-00-27-544.jpg
+[INFO ] 2023-12-31 11:00:29.143 [main] UIAutomationPractice - Screenshot taken at: screenshot//scr_31-12-2023_11-00-29-140.png
+[INFO ] 2023-12-31 11:00:29.571 [main] UIAutomationPractice - Screenshot taken at: screenshot//scr_31-12-2023_11-00-29-568.png
+[INFO ] 2023-12-31 11:00:29.571 [main] UIAutomationPractice - uiSeleniumQuit
+[INFO ] 2023-12-31 11:00:29.903 [main] UIAutomationPractice - Screenshot taken at: screenshot//scr_31-12-2023_11-00-29-847.png
+[INFO ] 2023-12-31 11:00:30.234 [main] FileDownloadLoad - C:\GitClonesNew\JavaPractOct2023
+[INFO ] 2023-12-31 11:00:30.238 [main] FileDownloadLoad - File not exist, downloading...
+[INFO ] 2023-12-31 11:00:30.238 [main] FileDownloadLoad - File not exist, downloading...
+[INFO ] 2023-12-31 11:00:30.671 [main] FileDownloadLoad - File downloaded, file name: logFileTest-31-Dec-2023_11-00-30-232.txt, file size: 289kB
+[INFO ] 2023-12-31 11:00:30.713 [main] FileDownloadLoad - URL: https://public.karat.io/content/q015/urls.txt
+[INFO ] 2023-12-31 11:00:30.713 [main] FileDownloadLoad - Occurrence: 1170
+[INFO ] 2023-12-31 11:00:30.714 [main] FileDownloadLoad - fileObj: true

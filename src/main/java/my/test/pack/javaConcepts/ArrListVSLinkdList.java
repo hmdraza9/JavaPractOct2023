@@ -8,7 +8,7 @@ public class ArrListVSLinkdList {
 
 	public static String sentence = "Java HashMap is not thread-safe and hence it should not be used in multithreaded applications. For the multi-threaded applications, we should use ConcurrentHashMap class";
 
-	public static void main(String[] args) {
+	public static void mainArrListVSLinkdList() {
 
 		ArrListVSLinkdList obj = new ArrListVSLinkdList();
 

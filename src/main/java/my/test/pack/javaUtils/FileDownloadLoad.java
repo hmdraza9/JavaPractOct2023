@@ -11,13 +11,13 @@ import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
 import java.util.HashMap;
 import java.util.Map;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class FileDownloadLoad {
 
 	private static final Logger log = LogManager.getLogger(FileDownloadLoad.class);
-
 
 	static String logfile = "https://public.karat.io/content/q015/urls.txt";// -> the most common URL is
 	// http://www.example.com (with 1170
@@ -28,7 +28,7 @@ public class FileDownloadLoad {
 	public static String filePath = System.getProperty("user.dir") + "/src/test/resources/TestFiles/logFileTest" + "-"
 			+ UtilMethods.getTime() + ".txt";
 
-	public static void main(String[] args) throws IOException {
+	public static void mainFileDownloadLoad() throws IOException {
 
 		log.info(System.getProperty("user.dir"));
 
@@ -46,8 +46,8 @@ public class FileDownloadLoad {
 						+ (fileObj.length() / 1024) + Level.kB);
 			}
 		} else
-			log.info("File exist, file name: " + fileObj.getName() + ", file size: "
-					+ (fileObj.length() / 1024) + Level.kB);
+			log.info("File exist, file name: " + fileObj.getName() + ", file size: " + (fileObj.length() / 1024)
+					+ Level.kB);
 
 		// re-utilizing the variable irrespective of the name meaning
 		String maxURL = obj.mostOccURL();

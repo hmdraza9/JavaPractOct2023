@@ -26,7 +26,7 @@ import org.openqa.selenium.interactions.Actions;
 
 public class UIAutomationPractice {
 
-	public static void main(String[] args) throws IOException {
+	public static void mainUIAutomationPractice() throws IOException {
 
 		CalendarDateSelect.selectDateFromCalendar();
 	}
@@ -95,11 +95,11 @@ class CalendarDateSelect {
 		log.info("Loading url: " + url);
 		driver.get(url);
 		Thread.sleep(5000);
-		
-		js.executeScript("alert('Date to select is "+dateSelect+"')");
+
+		js.executeScript("alert('Date to select is " + dateSelect + "')");
 		Thread.sleep(3000);
 		driver.switchTo().alert().dismiss();
-		
+
 		WebElement dateInput = driver.findElement(By.xpath(dateInputXpath));
 		tsPartial(driver, dateInput);
 		dateInput.click();
@@ -169,7 +169,11 @@ class CalendarDateSelect {
 	public static void ts(WebDriver driver) throws IOException {
 
 		File scr = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-		FileUtils.copyFile(scr, new File("screenshot//scr_" + getTime() + ".png"));
+
+		String temp = "screenshot//scr_" + getTime() + ".png";
+		FileUtils.copyFile(scr, new File(temp));
+
+		log.info("Screenshot taken at: " + temp);
 
 	}
 
@@ -189,13 +193,16 @@ class CalendarDateSelect {
 		BufferedImage cImage = bi.getSubimage(location.getX(), location.getY(), w, h);
 		ImageIO.write(cImage, "jpg", scr);
 
-		FileUtils.copyFile(scr, new File("screenshot//scr_part_" + getTime() + ".jpg"));
+		String temp = "screenshot//scr_part_" + getTime() + ".jpg";
+
+		FileUtils.copyFile(scr, new File(temp));
+
+		log.info("Screenshot taken at: " + temp);
 
 	}
 
 	private static void uiSeleniumQuit() throws IOException {
 		log.info(Thread.currentThread().getStackTrace()[1].getMethodName());
-		ts(driver);
 		driver.quit();
 
 	}

@@ -2,7 +2,7 @@ package my.test.pack.javaConcepts;
 
 public class AccessModProt {
 
-	public static void main(String[] args) {
+	public static void mainAccessModProt() {
 
 //		new testOne().display();
 

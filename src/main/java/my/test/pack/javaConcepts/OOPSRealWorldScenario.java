@@ -58,8 +58,11 @@ class BestFriend extends Friend {
 }
 
 public class OOPSRealWorldScenario {
-	public static void main(String args[]) throws Exception {
+	public static void mainOOPSRealWorldScenario() throws Exception {
 		/* Enter your code here. Read input from STDIN. Print output to STDOUT */
+		System.out.println("Enter count of friend details:\nFo example\n" + "1>>Acquaintance <NameOfAcquaintance>\n"
+				+ "2>>Friend <NameOfFriend> <hisHomeTown>\n"
+				+ "3>>BestFriend <NameOfFriend> <hisHomeTwon> <his favourite song>");
 		Scanner sc = new Scanner(System.in);
 		String sub = sc.nextLine();
 		int t = Integer.parseInt(sub);

@@ -32,7 +32,7 @@ class Student implements Comparable<Student> {
 
 public class ObjectSortingComparable {
 
-	public static void main(String[] args) {
+	public static void mainObjectSortingComparable() {
 
 		List<Student> al = new ArrayList<>();
 		al.add(new Student(101, "Vijay", 23));

@@ -14,7 +14,7 @@ class MutliThreadDemo extends Thread {
 
 public class MultithreadExample {
 
-	public static void main(String[] args) {
+	public static void mainMultithreadExample() {
 
 		for (int i = 0; i < 10; i++) {
 			new MutliThreadDemo().start();

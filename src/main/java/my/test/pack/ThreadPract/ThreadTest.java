@@ -2,11 +2,11 @@ package my.test.pack.ThreadPract;
 
 public class ThreadTest {
 
-	public static void main(String[] args) {
+	public static void mainThreadTest() {
 //		Thread myThread = new MyThread();
 //		myThread.run(); // #1
 //		System.out.println("In main method; thread name is: " + Thread.currentThread().getName());
-		
+
 		testStringIntern obj = new testStringIntern();
 		obj.compStrings();
 //		String s = new String("5");
@@ -24,54 +24,47 @@ class MyThread extends Thread {
 	}
 }
 
+class testStringIntern {
 
-
-class testStringIntern{
-	
 	public void compStrings() {
-		
+
 		String s1 = "hello";
-		
+
 		String s2 = "hello";
-		
+
 		String s3 = "hello";
-		
+
 		String s4 = new String("hello");
-		
-		System.out.println("s1.equals(s2): "+s1.equals(s2));
-		
-		System.out.println("s1.equals(s3): "+s1.equals(s3));
-		
-		System.out.println("s2.equals(s3): "+s2.equals(s3));
-		
-		System.out.println("s2.equals(s4): "+s2.equals(s4));
 
-		
-		System.out.println("s1==s2: "+(s1==s2));
-		
-		System.out.println("s1==s3: "+(s1==s3));
-		
-		System.out.println("s2==s3: "+(s2==s3));
-		
-		System.out.println("s2==s4): "+(s2==s4));
+		System.out.println("s1.equals(s2): " + s1.equals(s2));
 
-		
+		System.out.println("s1.equals(s3): " + s1.equals(s3));
+
+		System.out.println("s2.equals(s3): " + s2.equals(s3));
+
+		System.out.println("s2.equals(s4): " + s2.equals(s4));
+
+		System.out.println("s1==s2: " + (s1 == s2));
+
+		System.out.println("s1==s3: " + (s1 == s3));
+
+		System.out.println("s2==s3: " + (s2 == s3));
+
+		System.out.println("s2==s4): " + (s2 == s4));
+
 		s4 = s4.intern();
-		System.out.println("s1.equals(s2): "+s1.equals(s2));
-		
-		System.out.println("s1.equals(s3): "+s1.equals(s3));
-		
-		System.out.println("s2.equals(s3): "+s2.equals(s3));
-		
+		System.out.println("s1.equals(s2): " + s1.equals(s2));
+
+		System.out.println("s1.equals(s3): " + s1.equals(s3));
+
+		System.out.println("s2.equals(s3): " + s2.equals(s3));
+
 		try {
-			System.out.println("s2.equals(s4): "+s2.equals(s4));
+			System.out.println("s2.equals(s4): " + s2.equals(s4));
 		} finally {
 			System.out.println("efjhds");
 		}
-		
-		
-		
+
 	}
-	
-	
+
 }

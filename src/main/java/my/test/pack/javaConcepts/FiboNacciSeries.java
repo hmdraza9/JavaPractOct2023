@@ -2,7 +2,7 @@ package my.test.pack.javaConcepts;
 
 public class FiboNacciSeries {
 
-	public static void main(String[] args) {
+	public static void mainFiboNacciSeries() {
 
 		int fNum = 0, lNum = 1;
 		System.out.println(fNum);

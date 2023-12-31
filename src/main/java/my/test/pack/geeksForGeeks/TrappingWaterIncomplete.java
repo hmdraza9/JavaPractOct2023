@@ -1,11 +1,11 @@
 package my.test.pack.geeksForGeeks;
 
-public class TrappingWater {
+public class TrappingWaterIncomplete {
 
-	public static void main(String[] args) {
+	public static void mainTrappingWaterIncomplete() {
 		int[] wallHeights = { 3, 0, 0, 2, 0, 4 };
 //		int[] wallHeights = { 7, 4, 0, 6 };
-		TrappingWater.trappingWaterMethod(wallHeights.length, wallHeights);
+		TrappingWaterIncomplete.trappingWaterMethod(wallHeights.length, wallHeights);
 	}
 
 	public static long trappingWaterMethod(int n, int[] array) {

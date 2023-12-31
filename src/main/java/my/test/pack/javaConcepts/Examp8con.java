@@ -23,9 +23,9 @@ public class Examp8con extends Examp8 {
 		super(a, b);
 	}
 
-	public static void main(String[] args) {
+	public static void mainExamp8con() {
 		// TODO Auto-generated method stub
-		
+
 		Examp8con e = new Examp8con(15, 10);
 		e.add();
 

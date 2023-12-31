@@ -2,7 +2,7 @@ package my.test.pack.javaConcepts;
 
 public class SingletonClassTest {
 
-	public static void main(String[] args) {
+	public static void mainSingletonClassTest() {
 		// TODO Auto-generated method stub
 
 		System.out.println("Single tone class");

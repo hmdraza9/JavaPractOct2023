@@ -1,7 +1,7 @@
 package my.test.pack.javaConcepts;
 
 public class InheritCodeReuse extends Parent {
-	
+
 	public InheritCodeReuse() {
 		super();
 		System.out.println("InheritCodeReuse(child) constructor");
@@ -9,7 +9,7 @@ public class InheritCodeReuse extends Parent {
 		System.out.println(parName);
 	}
 
-	public static void main(String[] args) {
+	public static void mainInheritCodeReuse() {
 		// TODO Auto-generated method stub
 		InheritCodeReuse obj = new InheritCodeReuse();
 
@@ -17,6 +17,7 @@ public class InheritCodeReuse extends Parent {
 		System.out.println(obj.parentRole);
 		obj.displayParName();
 	}
+
 	public void yy() {
 		System.out.println(super.parentRole);
 	}
@@ -24,7 +25,7 @@ public class InheritCodeReuse extends Parent {
 }
 
 class Parent {
-	
+
 	public Parent() {
 		System.out.println("Parent constructor");
 	}

@@ -36,7 +36,7 @@ public class JavaReflection {
 		}
 	}
 
-	public static void main(String args[]) {
+	public static void mainJavaReflection() {
 
 //		JavaReflection.pattern22(3);
 		JavaReflection.testss();

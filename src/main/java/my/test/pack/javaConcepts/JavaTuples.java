@@ -12,7 +12,7 @@ import org.javatuples.Triplet;
 import org.javatuples.Unit;
 
 public class JavaTuples {
-	public static void main(String[] args) { // TODO Auto-generated method stub
+	public static void mainJavaTuples() { // TODO Auto-generated method stub
 //Java Tuples jar dependency URL: https://repo1.maven.org/maven2/org/javatuples/javatuples/1.2/javatuples-1.2.jar
 		org.javatuples.Unit<String> unit = new Unit<String>("I am unit in Java  Tuples");
 		System.out.println("org.javatuples.Unit: " + unit);
@@ -59,33 +59,29 @@ public class JavaTuples {
 
 		String s = new String("5");
 		System.out.println(1 + 10 + s + 1 + 10);
-		
-		
+
 		String mySent = "I am a boy";
 		String word = "";
 		String reverse = "";
-		
-		for(String str : mySent.split("")) {
-			
+
+		for (String str : mySent.split("")) {
+
 //			System.out.println("Str: >"+str+"< if space?: "+str.equals(" "));
-			
-			if(str.equals(" ")) {
+
+			if (str.equals(" ")) {
 //				System.out.print(str+"");
-				reverse = word +" " + reverse;
+				reverse = word + " " + reverse;
 				word = "";
-				System.out.println("if   Reverse: "+reverse+"; Word: "+word);
-			}
-			else {
+				System.out.println("if   Reverse: " + reverse + "; Word: " + word);
+			} else {
 //				System.out.print(str+"");
 				word = word + str;
-				System.out.println("else Reverse: "+reverse+"; Word: "+word);
+				System.out.println("else Reverse: " + reverse + "; Word: " + word);
 			}
-			
-			
+
 		}
-		reverse = word +" " + reverse;
-		System.out.println("\nreverse: "+reverse);
-		
+		reverse = word + " " + reverse;
+		System.out.println("\nreverse: " + reverse);
 
 	}
 }

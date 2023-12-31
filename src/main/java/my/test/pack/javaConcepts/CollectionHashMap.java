@@ -5,7 +5,7 @@ import java.util.HashMap;
 
 public class CollectionHashMap {
 
-	public static void main(String[] args) {
+	public static void mainCollectionHashMap() {
 		// TODO Auto-generated method stub
 
 		CollectionHashMap obj = new CollectionHashMap();

@@ -1,35 +1,44 @@
 package my.test.pack.Exceptions;
 
-public class TestExceptionsPract {
+public class ExceptionsPract {
 
 	static {
 		System.out.println("I am in first blank static block");
 	}
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-//		TestExceptionsPract.throwTest();
+	public static void mainExceptionPract() {
 
 	}
+
 	static {
 		System.out.println("I am in second blank static block");
 	}
-	
+
 	public static void throwTest() {
-		
+
 		try {
 			throw new Child();
-		}
-		catch(Child b) {
+		} catch (Child b) {
 			System.out.println("Caught Child class exception");
-		}
-		catch(Base b) {
+		} catch (Base b) {
 			System.out.println("Caught Base class exception");
 		}
 	}
 
 }
 
+class Base extends Exception {
 
-class Base extends Exception{}
-class Child extends Base{}
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+}
+
+class Child extends Base {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+}

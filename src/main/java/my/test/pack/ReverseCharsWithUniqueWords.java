@@ -3,12 +3,12 @@ package my.test.pack;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class ReverseCharsWithUniqueWordsClass {
+public class ReverseCharsWithUniqueWords {
 
 	int a;
 
-	public static void main(String[] args) {
-		ReverseCharsWithUniqueWordsClass.ReverseCharsWithUniqueWordsMethod();
+	public static void mainReverseCharsWithUniqueWords() {
+		ReverseCharsWithUniqueWords.ReverseCharsWithUniqueWordsMethod();
 
 	}
 
@@ -27,7 +27,7 @@ public class ReverseCharsWithUniqueWordsClass {
 
 		for (String str1 : words) {
 
-			wordsSet.add(ReverseCharsWithUniqueWordsClass.reverseWordChars(str1));
+			wordsSet.add(ReverseCharsWithUniqueWords.reverseWordChars(str1));
 
 		}
 
