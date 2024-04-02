@@ -16,10 +16,10 @@ public class PredicatePractice {
 		Predicate<Integer> greaterThanTen = i -> (i > 10);
 
 		Predicate<Integer> lessThanTwenty = i -> (i < 20);
-		
-		System.out.println("GreaterNLessThan: "+greaterThanTen.and(lessThanTwenty).test(19));
-		
-		System.out.println("GreaterNLessThan,negate: "+greaterThanTen.and(lessThanTwenty).negate().test(19));
+
+		System.out.println("GreaterMLessThan: " + greaterThanTen.and(lessThanTwenty).test(19));
+
+		System.out.println("GreaterNLessThan,negate: " + greaterThanTen.and(lessThanTwenty).negate().test(19));
 
 	}
 
