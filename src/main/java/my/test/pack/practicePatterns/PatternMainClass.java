@@ -6,25 +6,44 @@ public class PatternMainClass {
 		// URL practice -
 		// https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/
 
+		System.out.println("_____PATTERN-24_____\n");
 		PatternMainClass.print3loops(6);
-//		PatternMainClass.pyramidTopViewPatternPract(22);		//22 pract
-//		PatternMainClass.pyramidTopViewPattern(5); 				//22
-//		PatternMainClass.boxPattern(9, 33); 					//21
-//		PatternMainClass.diamondBoxPattern(9, 19); 				//19
-//		PatternMainClass.descAlphabetsPattern(5); 				//18
-//		PatternMainClass.ascDecimalPattern(9); 					//13
-//		PatternMainClass.ascBinaryPattern(9); 					//11
-//		PatternMainClass.pyramidLeftPattern(9); 				//10
-//		PatternMainClass.diamondPattern(10, 19); 				//9
-//		PatternMainClass.pyramidUpsidePattern(10, 19); 			//8
-//		PatternMainClass.pyramidPattern(11, 19); 				//7
-//		PatternMainClass.descAscCountPattern(5, 5); 			//6
-//		PatternMainClass.descPattern(5, 5); 					//5
-//		PatternMainClass.ascCountResetHeightPattern(5, 5); 		//4
-//		PatternMainClass.ascAscCountResetWidthPattern(5, 5); 	//3
-//		PatternMainClass.ascPattern(5, 5);   					//2
-//		PatternMainClass.blockPattern(5, 5); 					//1
-//		PatternMainClass.blockTestPattern();
+		System.out.println("_____PATTERN-23_____\n");
+		PatternMainClass.pyramidTopViewPatternPract(22); // 22 pract
+		System.out.println("_____PATTERN-22_____\n");
+		PatternMainClass.pyramidTopViewPattern(5); // 22
+		System.out.println("_____PATTERN-22_____\n");
+		PatternMainClass.boxPattern(9, 33); // 21
+		System.out.println("_____PATTERN-21_____\n");
+		PatternMainClass.diamondBoxPattern(9, 19); // 19
+		System.out.println("_____PATTERN-19_____\n");
+		PatternMainClass.descAlphabetsPattern(5); // 18
+		System.out.println("_____PATTERN-18_____\n");
+		PatternMainClass.ascDecimalPattern(9); // 13
+		System.out.println("_____PATTERN-13_____\n");
+		PatternMainClass.ascBinaryPattern(9); // 11
+		System.out.println("_____PATTERN-11_____\n");
+		PatternMainClass.pyramidLeftPattern(9); // 10
+		System.out.println("_____PATTERN-10_____\n");
+		PatternMainClass.diamondPattern(10, 19); // 9
+		System.out.println("_____PATTERN-9_____\n");
+		PatternMainClass.pyramidUpsidePattern(10, 19); // 8
+		System.out.println("_____PATTERN-8_____\n");
+		PatternMainClass.pyramidPattern(11, 19); // 7
+		System.out.println("_____PATTERN-7_____\n");
+		PatternMainClass.descAscCountPattern(5, 5); // 6
+		System.out.println("_____PATTERN-6_____\n");
+		PatternMainClass.descPattern(5, 5); // 5
+		System.out.println("_____PATTERN-5_____\n");
+		PatternMainClass.ascCountResetHeightPattern(5, 5); // 4
+		System.out.println("_____PATTERN-4_____\n");
+		PatternMainClass.ascAscCountResetWidthPattern(5, 5); // 3
+		System.out.println("_____PATTERN-3_____\n");
+		PatternMainClass.ascPattern(5, 5); // 2
+		System.out.println("_____PATTERN-2_____\n");
+		PatternMainClass.blockPattern(5, 5); // 1
+		System.out.println("_____PATTERN-1_____\n");
+		PatternMainClass.blockTestPattern();
 
 	}
 

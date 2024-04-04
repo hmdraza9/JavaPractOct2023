@@ -10,7 +10,7 @@ public class JavaReflection {
 			// inner loop for no. of columns.
 			for (int j = 0; j < 2 * n - 1; j++) {
 
-				// Initialising the top, down, left and right indices of a cell.
+				// Initializing the top, down, left and right indices of a cell.
 				int top = i;
 				int bottom = j;
 				int right = (2 * n - 2) - j;

@@ -29,12 +29,16 @@ class testStringIntern {
 	public void compStrings() {
 
 		String s1 = "hello";
+		System.out.println("String s1 = \"hello\";");
 
 		String s2 = "hello";
+		System.out.println("String s2 = \"hello\";");
 
 		String s3 = "hello";
+		System.out.println("String s3 = \"hello\";");
 
 		String s4 = new String("hello");
+		System.out.println("String s4 = new String(\"hello\")");
 
 		System.out.println("s1.equals(s2): " + s1.equals(s2));
 
@@ -52,12 +56,22 @@ class testStringIntern {
 
 		System.out.println("s2==s4): " + (s2 == s4));
 
-		s4 = s4.intern();
+		s4 = s4.intern();System.out.println("s4 = s4.intern();");
+
+		System.out.println("s2==s4): " + (s2 == s4));
 		System.out.println("s1.equals(s2): " + s1.equals(s2));
 
 		System.out.println("s1.equals(s3): " + s1.equals(s3));
 
 		System.out.println("s2.equals(s3): " + s2.equals(s3));
+
+		System.out.println("s1==s2: " + (s1 == s2));
+
+		System.out.println("s1==s3: " + (s1 == s3));
+
+		System.out.println("s2==s3: " + (s2 == s3));
+
+		System.out.println("s2==s4): " + (s2 == s4));
 
 		try {
 			System.out.println("s2.equals(s4): " + s2.equals(s4));

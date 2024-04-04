@@ -3,7 +3,6 @@ package my.test.pack.javaConcepts;
 public class SingletonClassTest {
 
 	public static void mainSingletonClassTest() {
-		// TODO Auto-generated method stub
 
 		System.out.println("Single tone class");
 		testSingleTon w = testSingleTon.getInstance();
@@ -24,6 +23,7 @@ public class SingletonClassTest {
 		System.out.println(c.hashCode());
 		testTwoTon d = testTwoTon.getInstance();
 		System.out.println(d.hashCode());
+
 	}
 
 }

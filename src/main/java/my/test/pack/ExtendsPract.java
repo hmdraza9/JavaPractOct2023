@@ -97,6 +97,8 @@ public class ExtendsPract {
 		testExtends tp2 = new testExtends();
 //		tp.testChildOnlya(); // error
 		tp.testParent();
+		tp2.testChildOnly();
+		tp2.testParent();
 		TestParent.testStaticMeth();
 		testExtends.testStaticMeth();
 		ExtendsPract tp3 = new ExtendsPract();

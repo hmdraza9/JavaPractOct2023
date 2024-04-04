@@ -8,7 +8,7 @@ import java.util.function.Consumer;
 
 public class ConsumerPractice {
 
-	public static void main(String[] args) {
+	public static void mainConsumerPractice() {
 
 		Consumer<Integer> cons1 = a -> System.out.print(a + "\t");
 
@@ -41,8 +41,18 @@ public class ConsumerPractice {
 		System.out.println("");
 
 		BiConsumer<Integer, String> combString = (age, name) -> System.out.println("Name: " + name + ", age: " + age);
-		
+
 		combString.accept(12, "New Kid");
+
+		Consumer<String> salute = new Consumer<String>() {
+
+			@Override
+			public void accept(String name) {
+				System.out.println("Hi " + name);
+			}
+		};
+
+		salute.accept("John");
 
 	}
 

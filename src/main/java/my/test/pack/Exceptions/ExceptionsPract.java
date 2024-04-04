@@ -17,17 +17,17 @@ public class ExceptionsPract {
 	public static void throwTest() {
 
 		try {
-			throw new Child();
-		} catch (Child b) {
+			throw new ChildException();
+		} catch (ChildException c) {
 			System.out.println("Caught Child class exception");
-		} catch (Base b) {
+		} catch (BaseException b) {
 			System.out.println("Caught Base class exception");
 		}
 	}
 
 }
 
-class Base extends Exception {
+class BaseException extends Exception {
 
 	/**
 	 * 
@@ -35,7 +35,7 @@ class Base extends Exception {
 	private static final long serialVersionUID = 1L;
 }
 
-class Child extends Base {
+class ChildException extends BaseException {
 
 	/**
 	 * 

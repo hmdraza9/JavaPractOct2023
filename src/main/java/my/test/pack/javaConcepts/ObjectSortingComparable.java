@@ -36,11 +36,11 @@ public class ObjectSortingComparable {
 
 		List<Student> al = new ArrayList<>();
 		al.add(new Student(101, "Vijay", 23));
-		al.add(new Student(106, "Ajay", 27));
-		al.add(new Student(105, "Jay", 21));
+		al.add(new Student(106, " Ajay", 27));
+		al.add(new Student(105, "  Jay", 21));
 		al.add(new Student(104, "Vijay", 24));
-		al.add(new Student(108, "Ajay", 26));
-		al.add(new Student(102, "Jay", 22));
+		al.add(new Student(108, " Ajay", 26));
+		al.add(new Student(102, "  Jay", 22));
 
 		ObjectSortingComparable.printList(al, "Before sort");
 

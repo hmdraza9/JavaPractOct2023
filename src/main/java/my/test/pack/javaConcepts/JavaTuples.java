@@ -21,8 +21,8 @@ public class JavaTuples {
 		System.out.println("org.javatuples.Pair: " + pair);
 		Triplet<String, Integer, Float> triplet = new Triplet<String, Integer, Float>("Hi", 23, 3F);
 		System.out.println("org.javatuples.Triplet: " + triplet);
-		org.javatuples.Quartet<String, String, String, String> quartet = new Quartet<String, String, String, String>(
-				"This", "is", "Example of", "Quartet");
+		org.javatuples.Quartet<Integer, String, String, String> quartet = new Quartet<Integer, String, String, String>(
+				123, "is", "Example of", "Quartet");
 		System.out.println("org.javatuples.Quartet: " + quartet);
 		org.javatuples.Quintet<String, String, String, String, String> quintet = new Quintet<String, String, String, String, String>(
 				"This", "is", "Example", "of", "Quintet");

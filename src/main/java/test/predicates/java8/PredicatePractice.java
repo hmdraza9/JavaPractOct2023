@@ -4,7 +4,7 @@ import java.util.function.Predicate;
 
 public class PredicatePractice {
 
-	public static void main(String[] args) {
+	public static void mainPredicatePractice() {
 
 		String str = "abcdef";
 		String testStr = "abc";
@@ -17,9 +17,20 @@ public class PredicatePractice {
 
 		Predicate<Integer> lessThanTwenty = i -> (i < 20);
 
+		Predicate<Long> hhh = new Predicate<Long>() {
+
+			@Override
+			public boolean test(Long t) {
+
+				return false;
+			}
+		};
+
 		System.out.println("GreaterMLessThan: " + greaterThanTen.and(lessThanTwenty).test(19));
 
 		System.out.println("GreaterNLessThan,negate: " + greaterThanTen.and(lessThanTwenty).negate().test(19));
+
+		System.out.println("hhh: " + hhh.test(null));
 
 	}
 
