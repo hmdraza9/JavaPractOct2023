@@ -1,7 +1,7 @@
 package mainPackageRunner;
 
-import test.predicates.java8.ConsumerPractice;
-import test.predicates.java8.PredicatePractice;
+import test.java8.predicates.ConsumerPractice;
+import test.java8.predicates.PredicatePractice;
 
 public class JavaMAINClass {
 

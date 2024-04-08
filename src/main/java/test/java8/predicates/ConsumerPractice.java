@@ -1,4 +1,4 @@
-package test.predicates.java8;
+package test.java8.predicates;
 
 import java.util.ArrayList;
 import java.util.Arrays;
