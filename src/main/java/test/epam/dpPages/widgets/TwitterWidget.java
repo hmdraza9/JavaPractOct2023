@@ -6,7 +6,7 @@ import test.epam.dpPages.PageSimulator;
 public class TwitterWidget extends PageSimulator {
 
 	private Page customPage;
-	private int myRank=10;
+	private int myRank = 10;
 
 	public TwitterWidget(Page customPage) {
 		super(customPage);
@@ -19,7 +19,7 @@ public class TwitterWidget extends PageSimulator {
 	}
 
 	public int addRank() {
-		System.out.println("Adding Twitter widget - "+myRank);
+		System.out.println("Twitter widget Added - " + myRank);
 		return myRank;
 	}
 

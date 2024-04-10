@@ -19,7 +19,7 @@ public class ContactWidget extends PageSimulator {
 	}
 
 	public int addRank() {
-		System.out.println("Adding Contact widget - "+myRank);
+		System.out.println("Contact widget Added - "+myRank);
 		return myRank;
 	}
 

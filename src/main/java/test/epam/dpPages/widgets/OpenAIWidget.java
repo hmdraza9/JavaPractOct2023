@@ -3,12 +3,12 @@ package test.epam.dpPages.widgets;
 import test.epam.dpPages.Page;
 import test.epam.dpPages.PageSimulator;
 
-public class FacebookWidget extends PageSimulator {
+public class OpenAIWidget extends PageSimulator {
 
 	private Page customPage;
-	private int myRank=9;
+	private int myRank = 3;
 
-	public FacebookWidget(Page customPage) {
+	public OpenAIWidget(Page customPage) {
 		super(customPage);
 		this.customPage = customPage;
 	}
@@ -19,7 +19,7 @@ public class FacebookWidget extends PageSimulator {
 	}
 
 	public int addRank() {
-		System.out.println("Facebook widget Added - "+myRank);
+		System.out.println("OpenAI widget Added - " + myRank);
 		return myRank;
 	}
 

@@ -19,7 +19,7 @@ public class EventWidget extends PageSimulator {
 	}
 
 	public int addRank() {
-		System.out.println("Adding Event widget - " + myRank);
+		System.out.println("Event widget Added - " + myRank);
 		return myRank;
 	}
 

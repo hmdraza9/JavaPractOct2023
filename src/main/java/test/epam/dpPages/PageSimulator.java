@@ -6,6 +6,7 @@ public class PageSimulator implements Page {
 
 	public PageSimulator(Page customPage) {
 		this.customPage = customPage;
+		System.out.println("PageSimulator constructor called");
 	}
 
 	@Override

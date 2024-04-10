@@ -19,7 +19,7 @@ public class CalendarWidget extends PageSimulator {
 	}
 
 	public int addRank() {
-		System.out.println("Adding Calendar widget - "+myRank);
+		System.out.println("Calendar widget Added - "+myRank);
 		return myRank;
 	}
 
