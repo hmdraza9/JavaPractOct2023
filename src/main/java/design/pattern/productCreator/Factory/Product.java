@@ -1,4 +1,4 @@
-package design.pattern.Factory;
+package design.pattern.productCreator.Factory;
 
 abstract class Product {
 
