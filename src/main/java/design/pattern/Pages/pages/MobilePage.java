@@ -1,6 +1,6 @@
-package test.epam.dpPages.pages;
+package design.pattern.Pages.pages;
 
-import test.epam.dpPages.Page;
+import design.pattern.Page.Page;
 
 public class MobilePage implements Page {
 

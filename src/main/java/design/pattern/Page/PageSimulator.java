@@ -1,4 +1,4 @@
-package test.epam.dpPages;
+package design.pattern.Page;
 
 public class PageSimulator implements Page {
 

@@ -1,13 +1,13 @@
-package test.epam.dpPages;
+package design.pattern.Page;
 
-import test.epam.dpPages.pages.TouchPage;
-import test.epam.dpPages.pages.WebPage;
-import test.epam.dpPages.widgets.ContactWidget;
-import test.epam.dpPages.widgets.EventWidget;
-import test.epam.dpPages.widgets.FacebookWidget;
-import test.epam.dpPages.widgets.GoogleMapsWidget;
-import test.epam.dpPages.widgets.OpenAIWidget;
-import test.epam.dpPages.widgets.TwitterWidget;
+import design.pattern.Pages.pages.TouchPage;
+import design.pattern.Pages.pages.WebPage;
+import design.pattern.Pages.widgets.ContactWidget;
+import design.pattern.Pages.widgets.EventWidget;
+import design.pattern.Pages.widgets.FacebookWidget;
+import design.pattern.Pages.widgets.GoogleMapsWidget;
+import design.pattern.Pages.widgets.OpenAIWidget;
+import design.pattern.Pages.widgets.TwitterWidget;
 
 public class DemoPage {
 

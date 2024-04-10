@@ -1,7 +1,7 @@
-package test.epam.dpPages.widgets;
+package design.pattern.Pages.widgets;
 
-import test.epam.dpPages.Page;
-import test.epam.dpPages.PageSimulator;
+import design.pattern.Page.Page;
+import design.pattern.Page.PageSimulator;
 
 public class TwitterWidget extends PageSimulator {
 
